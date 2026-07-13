@@ -69,7 +69,7 @@ const main = async () => {
     }
   }
 
-  const quoteMarkdown = `> "${quote.text}"\n>\n> — *${quote.author}*`;
+  const quoteMarkdown = `### *"${quote.text}"*\n\n— **${quote.author}**`;
 
   let template = fs.readFileSync("template.md").toString();
   template = template.replace("{QUOTE_HERE}", quoteMarkdown);

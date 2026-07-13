@@ -127,11 +127,15 @@
 
 ---
 
+<div align="center">
+
 ## 💡 Quote of the Day
 
-> "It's not a bug — it's an undocumented feature."
->
-> — *Anonymous*
+### *"If you done it, it ain't bragging."*
+
+— **Walt Whitman**
+
+</div>
 
 ---
 

@@ -127,9 +127,13 @@
 
 ---
 
+<div align="center">
+
 ## 💡 Quote of the Day
 
 {QUOTE_HERE}
+
+</div>
 
 ---
 
