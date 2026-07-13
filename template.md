@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nguyen Thanh 👋
+# Hi there, I'm Twot Nguyen 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer+(React+%2F+NestJS);Cross-Platform+Mobile+Creator+(Flutter);Desktop+%26+Tooling+Builder+(Tauri+%2F+Rust+%2F+C%23))](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 ```json
 {
-  "name": "Nguyen Thanh",
+  "name": "Twot Nguyen",
   "role": "Software Engineer",
   "based_in": "Ho Chi Minh City, Vietnam",
   "core_stack": ["TypeScript", "React", "NestJS", "PostgreSQL"],
