@@ -52,6 +52,89 @@ const getRandomProgrammingQuote = () => {
   return programmingQuotes[Math.floor(Math.random() * programmingQuotes.length)];
 };
 
+// Helper function to split text into lines of a maximum length
+const wrapText = (text, maxLength) => {
+  const words = text.split(" ");
+  const lines = [];
+  let currentLine = "";
+
+  words.forEach((word) => {
+    if ((currentLine + " " + word).trim().length <= maxLength) {
+      currentLine = (currentLine + " " + word).trim();
+    } else {
+      if (currentLine) lines.push(currentLine);
+      currentLine = word;
+    }
+  });
+  if (currentLine) lines.push(currentLine);
+  return lines;
+};
+
+// Function to generate the Tokyo Night themed SVG image
+const generateSVG = (quoteText, authorName) => {
+  const maxLength = 60; // Max characters per line for 600px width
+  const lines = wrapText(`"${quoteText}"`, maxLength);
+  const lineGap = 24;
+  const startY = 48;
+  const authorY = startY + lines.length * lineGap + 12;
+  const svgHeight = authorY + 36;
+
+  let textElements = "";
+  lines.forEach((line, index) => {
+    // Escape XML entities
+    const escapedLine = line
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&apos;");
+    textElements += `  <text x="40" y="${startY + index * lineGap}" class="quote-text">${escapedLine}</text>\n`;
+  });
+
+  const escapedAuthor = authorName
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="600" height="${svgHeight}" viewBox="0 0 600 ${svgHeight}">
+  <style>
+    .background {
+      fill: #1a1b26;
+      stroke: #24283b;
+      stroke-width: 1.5;
+      rx: 8px;
+    }
+    .quote-text {
+      fill: #73daca;
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-style: italic;
+    }
+    .author-text {
+      fill: #7aa2f7;
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: bold;
+    }
+    .quote-mark {
+      fill: #3d59a1;
+      font-family: Georgia, serif;
+      font-size: 80px;
+      opacity: 0.25;
+    }
+  </style>
+  <rect width="600" height="${svgHeight}" class="background"/>
+  <text x="20" y="70" class="quote-mark">“</text>
+  <g>
+  ${textElements}  </g>
+  <text x="560" y="${authorY}" text-anchor="end" class="author-text">- ${escapedAuthor}</text>
+</svg>`;
+
+  return svg;
+};
+
 // Main execution
 const main = async () => {
   let quote;
@@ -69,8 +152,18 @@ const main = async () => {
     }
   }
 
-  const quoteMarkdown = `<p><i>"${quote.text}"</i></p>\n<p>— <b>${quote.author}</b></p>`;
+  // 1. Generate the SVG content and write to quote.svg
+  console.log("🎨 Generating SVG card for the quote...");
+  const svgContent = generateSVG(quote.text, quote.author);
+  fs.writeFileSync("quote.svg", svgContent);
+  console.log("✅ quote.svg generated successfully");
 
+  // 2. Generate the markdown tag for README.md
+  const quoteAlt = `Quote of the Day: "${quote.text}" - ${quote.author}`;
+  const escapedQuoteAlt = quoteAlt.replace(/\]/g, "\\]"); // Escape markdown brackets
+  const quoteMarkdown = `![${escapedQuoteAlt}](quote.svg)`;
+
+  // 3. Read template and write to README.md
   let template = fs.readFileSync("template.md").toString();
   template = template.replace("{QUOTE_HERE}", quoteMarkdown);
   fs.writeFileSync("README.md", template);

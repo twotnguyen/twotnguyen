@@ -129,16 +129,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="600">
-      <br/>
-      <h3>💡 Quote of the Day</h3>
-      {QUOTE_HERE}
-      <br/>
-    </td>
-  </tr>
-</table>
+### 💡 Quote of the Day
+
+{QUOTE_HERE}
 
 </div>
 

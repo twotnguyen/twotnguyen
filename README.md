@@ -129,17 +129,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="600">
-      <br/>
-      <h3>💡 Quote of the Day</h3>
-      <p><i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i></p>
-<p>— <b>Eckhart Tolle</b></p>
-      <br/>
-    </td>
-  </tr>
-</table>
+### 💡 Quote of the Day
+
+![Quote of the Day: "The primary cause of unhappiness is never the situation but your thoughts about it." - Eckhart Tolle](quote.svg)
 
 </div>
 

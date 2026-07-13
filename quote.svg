@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="144" viewBox="0 0 600 144">
+  <style>
+    .background {
+      fill: #1a1b26;
+      stroke: #24283b;
+      stroke-width: 1.5;
+      rx: 8px;
+    }
+    .quote-text {
+      fill: #73daca;
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-style: italic;
+    }
+    .author-text {
+      fill: #7aa2f7;
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: bold;
+    }
+    .quote-mark {
+      fill: #3d59a1;
+      font-family: Georgia, serif;
+      font-size: 80px;
+      opacity: 0.25;
+    }
+  </style>
+  <rect width="600" height="144" class="background"/>
+  <text x="20" y="70" class="quote-mark">“</text>
+  <g>
+    <text x="40" y="48" class="quote-text">&quot;The primary cause of unhappiness is never the situation but</text>
+  <text x="40" y="72" class="quote-text">your thoughts about it.&quot;</text>
+  </g>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Eckhart Tolle</text>
+</svg>
