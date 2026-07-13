@@ -1,0 +1,10 @@
+{
+  "name": "twotnguyen-readme",
+  "version": "1.0.0",
+  "description": "Nguyễn Thành's Profile README with dynamic quotes and contribution snake",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js"
+  },
+  "private": true
+}
