@@ -129,11 +129,17 @@
 
 <div align="center">
 
-## 💡 Quote of the Day
-
-### *"If you done it, it ain't bragging."*
-
-— **Walt Whitman**
+<table>
+  <tr>
+    <td align="center" width="600">
+      <br/>
+      <h3>💡 Quote of the Day</h3>
+      <p><i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i></p>
+<p>— <b>Eckhart Tolle</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
