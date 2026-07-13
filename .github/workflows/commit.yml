@@ -1,0 +1,30 @@
+name: Daily Quote Generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run script
+        run: node index.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update daily quote" || echo "No changes to commit"
+          git push
