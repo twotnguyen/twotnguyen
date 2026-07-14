@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Code is like humor. When you have to explain it, it's bad." - Cory House](quote.svg?v=1783992306098)
+![Quote of the Day: "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson](quote.svg?v=1783993578507)
 
 </div>
 
