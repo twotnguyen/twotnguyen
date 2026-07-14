@@ -72,8 +72,8 @@ const wrapText = (text, maxLength) => {
 
 // Function to generate the Tokyo Night themed SVG image
 const generateSVG = (quoteText, authorName) => {
-  const maxLength = 60; // Max characters per line for 600px width
-  const lines = wrapText(`"${quoteText}"`, maxLength);
+  const maxLength = 62; // Max characters per line for 600px width with 45px padding
+  const lines = wrapText(quoteText, maxLength); // Wrap raw quoteText without quotes
   const lineGap = 24;
   const startY = 48;
   const authorY = startY + lines.length * lineGap + 12;
@@ -82,13 +82,31 @@ const generateSVG = (quoteText, authorName) => {
   let textElements = "";
   lines.forEach((line, index) => {
     // Escape XML entities
-    const escapedLine = line
+    let escapedLine = line
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;")
       .replace(/'/g, "&apos;");
-    textElements += `  <text x="40" y="${startY + index * lineGap}" class="quote-text">${escapedLine}</text>\n`;
+
+    if (index === 0) {
+      // First line gets the opening quote mark
+      const openingQuote = `<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>`;
+      if (lines.length === 1) {
+        // Only one line, get both opening and closing marks
+        const closingQuote = `<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan>`;
+        textElements += `  <text x="45" y="${startY}" class="quote-text">${openingQuote}${escapedLine}${closingQuote}</text>\n`;
+      } else {
+        textElements += `  <text x="45" y="${startY}" class="quote-text">${openingQuote}${escapedLine}</text>\n`;
+      }
+    } else if (index === lines.length - 1) {
+      // Last line gets the closing quote mark
+      const closingQuote = `<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan>`;
+      textElements += `  <text x="45" y="${startY + index * lineGap}" class="quote-text">${escapedLine}${closingQuote}</text>\n`;
+    } else {
+      // Middle lines
+      textElements += `  <text x="45" y="${startY + index * lineGap}" class="quote-text">${escapedLine}</text>\n`;
+    }
   });
 
   const escapedAuthor = authorName
@@ -101,32 +119,30 @@ const generateSVG = (quoteText, authorName) => {
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="600" height="${svgHeight}" viewBox="0 0 600 ${svgHeight}">
   <style>
     .background {
-      fill: #1a1b26;
-      stroke: #24283b;
-      stroke-width: 1.5;
+      fill: #1e1e2e;
+      stroke: #313244;
+      stroke-width: 1;
       rx: 8px;
     }
+    .accent-bar {
+      fill: #cba6f7;
+      rx: 2px;
+    }
     .quote-text {
-      fill: #73daca;
-      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      fill: #86e2d5;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-size: 15px;
       font-style: italic;
     }
     .author-text {
-      fill: #7aa2f7;
-      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      fill: #89b4fa;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-size: 13px;
       font-weight: bold;
     }
-    .quote-mark {
-      fill: #3d59a1;
-      font-family: Georgia, serif;
-      font-size: 80px;
-      opacity: 0.25;
-    }
   </style>
   <rect width="600" height="${svgHeight}" class="background"/>
-  <text x="20" y="70" class="quote-mark">“</text>
+  <rect x="12" y="16" width="4" height="${svgHeight - 32}" class="accent-bar"/>
   <g>
   ${textElements}  </g>
   <text x="560" y="${authorY}" text-anchor="end" class="author-text">- ${escapedAuthor}</text>

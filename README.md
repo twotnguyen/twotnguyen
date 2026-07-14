@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The primary cause of unhappiness is never the situation but your thoughts about it." - Eckhart Tolle](quote.svg)
+![Quote of the Day: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry](quote.svg)
 
 </div>
 
