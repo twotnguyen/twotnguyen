@@ -174,10 +174,11 @@ const main = async () => {
   fs.writeFileSync("quote.svg", svgContent);
   console.log("✅ quote.svg generated successfully");
 
-  // 2. Generate the markdown tag for README.md
+  // 2. Generate the markdown tag for README.md with cache-busting timestamp query parameter
+  const timestamp = new Date().getTime();
   const quoteAlt = `Quote of the Day: "${quote.text}" - ${quote.author}`;
   const escapedQuoteAlt = quoteAlt.replace(/\]/g, "\\]"); // Escape markdown brackets
-  const quoteMarkdown = `![${escapedQuoteAlt}](quote.svg)`;
+  const quoteMarkdown = `![${escapedQuoteAlt}](quote.svg?v=${timestamp})`;
 
   // 3. Read template and write to README.md
   let template = fs.readFileSync("template.md").toString();

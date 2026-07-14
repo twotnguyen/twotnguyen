@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry](quote.svg)
+![Quote of the Day: "Code is like humor. When you have to explain it, it's bad." - Cory House](quote.svg?v=1783992306098)
 
 </div>
 
