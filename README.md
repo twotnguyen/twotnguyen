@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler](quote.svg?v=1783997006328)
+![Quote of the Day: "You are your best thing." - Toni Morrison](quote.svg?v=1784083330221)
 
 </div>
 
