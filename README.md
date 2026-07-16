@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "You are your best thing." - Toni Morrison](quote.svg?v=1784083330221)
+![Quote of the Day: "The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities." - Charles Dickens](quote.svg?v=1784170115044)
 
 </div>
 
