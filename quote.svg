@@ -26,9 +26,9 @@
   <rect width="600" height="168" class="background"/>
   <rect x="12" y="16" width="4" height="136" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>The most important thing in life is to stop saying &apos;I wish&apos;</text>
-  <text x="45" y="72" class="quote-text">and start saying &apos;I will&apos;. Consider nothing impossible, then</text>
-  <text x="45" y="96" class="quote-text">treat possibilities as probabilities.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Learn to enjoy every minute of your life. Be happy now. Don&apos;t</text>
+  <text x="45" y="72" class="quote-text">wait for something outside of yourself to make you happy in</text>
+  <text x="45" y="96" class="quote-text">the future.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="132" text-anchor="end" class="author-text">- Charles Dickens</text>
+  <text x="560" y="132" text-anchor="end" class="author-text">- Earl Nightingale</text>
 </svg>
