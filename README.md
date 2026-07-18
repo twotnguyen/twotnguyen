@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." - Earl Nightingale](quote.svg?v=1784256670450)
+![Quote of the Day: "Yesterday is gone. Tomorrow has not yet come. We have only today." - Mother Teresa](quote.svg?v=1784342609502)
 
 </div>
 
