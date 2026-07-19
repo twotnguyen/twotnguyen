@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Yesterday is gone. Tomorrow has not yet come. We have only today." - Mother Teresa](quote.svg?v=1784342609502)
+![Quote of the Day: "When the root is strong, the fruit is sweet." - Bob Marley](quote.svg?v=1784429864117)
 
 </div>
 
