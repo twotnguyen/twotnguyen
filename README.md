@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "When the root is strong, the fruit is sweet." - Bob Marley](quote.svg?v=1784429864117)
+![Quote of the Day: "The function of good software is to make the complex appear to be simple." - Grady Booch](quote.svg?v=1784518017264)
 
 </div>
 

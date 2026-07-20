@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="144" viewBox="0 0 600 144">
   <style>
     .background {
       fill: #1e1e2e;
@@ -23,10 +23,11 @@
       font-weight: bold;
     }
   </style>
-  <rect width="600" height="120" class="background"/>
-  <rect x="12" y="16" width="4" height="88" class="accent-bar"/>
+  <rect width="600" height="144" class="background"/>
+  <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>When the root is strong, the fruit is sweet.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>The function of good software is to make the complex appear to</text>
+  <text x="45" y="72" class="quote-text">be simple.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="84" text-anchor="end" class="author-text">- Bob Marley</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Grady Booch</text>
 </svg>
