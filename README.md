@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The function of good software is to make the complex appear to be simple." - Grady Booch](quote.svg?v=1784518017264)
+![Quote of the Day: "Simplicity is the soul of efficiency." - Austin Freeman](quote.svg?v=1784602427051)
 
 </div>
 
