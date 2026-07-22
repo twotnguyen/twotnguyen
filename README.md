@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Simplicity is the soul of efficiency." - Austin Freeman](quote.svg?v=1784602427051)
+![Quote of the Day: "Judge your success by what you had to give up in order to get it." - Dalai Lama](quote.svg?v=1784688696463)
 
 </div>
 
