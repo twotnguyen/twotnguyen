@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Judge your success by what you had to give up in order to get it." - Dalai Lama](quote.svg?v=1784688696463)
+![Quote of the Day: "How you think when you lose determines how long it will be until you win." - Gilbert Chesterton](quote.svg?v=1784776380239)
 
 </div>
 
