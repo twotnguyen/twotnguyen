@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "How you think when you lose determines how long it will be until you win." - Gilbert Chesterton](quote.svg?v=1784776380239)
+![Quote of the Day: "It's not a bug — it's an undocumented feature." - Anonymous](quote.svg?v=1784861534171)
 
 </div>
 
