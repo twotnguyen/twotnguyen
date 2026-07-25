@@ -156,7 +156,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Keep your face always toward the sunshine -  shadows will fall behind you." - Walt Whitman](quote.svg?v=1784968998711)
+![Quote of the Day: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie](quote.svg?v=1784971693116)
 
 </div>
 
