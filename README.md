@@ -156,7 +156,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie](quote.svg?v=1784971693116)
+![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1784971834262)
 
 </div>
 

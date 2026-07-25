@@ -26,8 +26,8 @@
   <rect width="600" height="144" class="background"/>
   <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Every great developer you know got there by solving problems</text>
-  <text x="45" y="72" class="quote-text">they were unqualified to solve until they actually did it.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>If debugging is the process of removing software bugs, then</text>
+  <text x="45" y="72" class="quote-text">programming must be the process of putting them in.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="108" text-anchor="end" class="author-text">- Patrick McKenzie</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Edsger Dijkstra</text>
 </svg>

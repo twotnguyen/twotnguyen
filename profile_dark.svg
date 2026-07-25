@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
-  <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="500" viewBox="0 0 930 500" font-family="Consolas, Menlo, monospace" font-size="13px">
+  <rect x="0.5" y="0.5" width="929" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="40" fill="#8b949e" xml:space="preserve">.....................=**##**.........................</text>
   <text x="25" y="55" fill="#8b949e" xml:space="preserve">..................++==*##*==+=+++****................</text>
   <text x="25" y="70" fill="#8b949e" xml:space="preserve">.................+==**#*+=-----=++++*###.............</text>
@@ -29,20 +29,20 @@
   <text x="25" y="430" fill="#8b949e" xml:space="preserve">....++=::::::::++++=-:::::::-=+*#*#========:-++++*...</text>
   <text x="25" y="445" fill="#8b949e" xml:space="preserve">.++++=::::::::::*+*+*=:::::+****##+=========:-+++++**</text>
   <text x="25" y="460" fill="#8b949e" xml:space="preserve">++++=:::::::::::*****+:::-***###%*=====--::==:====+++</text>
-  <text x="390" y="45" xml:space="preserve"><tspan fill="#58a6ff">twotnguyen@github </tspan><tspan fill="#484f58">──────────────────────────────────────</tspan></text>
-  <text x="390" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................. </tspan><tspan fill="#c9d1d9">macOS, Windows, Linux</tspan></text>
-  <text x="390" y="108" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">1 year, 6 months, 5 days on GitHub</tspan></text>
-  <text x="390" y="129" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">Ho Chi Minh City, Vietnam</tspan></text>
-  <text x="390" y="150" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">........................... </tspan><tspan fill="#c9d1d9">Full-Stack Developer</tspan></text>
-  <text x="390" y="171" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">................................... </tspan><tspan fill="#c9d1d9">Cursor, VS Code</tspan></text>
-  <text x="390" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">TypeScript, JavaScript, C#, Dart, Rust</tspan></text>
-  <text x="390" y="234" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Vietnamese (Native), English</tspan></text>
-  <text x="390" y="255" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">..... </tspan><tspan fill="#c9d1d9">Coding, Tech Blogging, AI Agent Workflows</tspan></text>
-  <text x="390" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
-  <text x="390" y="318" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">nguyenngoctinh011258@gmail.com</tspan></text>
-  <text x="390" y="339" xml:space="preserve"><tspan fill="#ffa657">GitHub: </tspan><tspan fill="#484f58">.......................... </tspan><tspan fill="#c9d1d9">github.com/twotnguyen</tspan></text>
-  <text x="390" y="381" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
-  <text x="390" y="402" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">20 {Contributed: 3}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">5</tspan></text>
-  <text x="390" y="423" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">3,581</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">5</tspan></text>
-  <text x="390" y="444" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">7,001,515</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">10,299,760++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">3,298,245--</tspan><tspan fill="#484f58"> )</tspan></text>
+  <text x="470" y="45" xml:space="preserve"><tspan fill="#58a6ff">twotnguyen@github </tspan><tspan fill="#484f58">──────────────────────────────────────</tspan></text>
+  <text x="470" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................. </tspan><tspan fill="#c9d1d9">macOS, Windows, Linux</tspan></text>
+  <text x="470" y="108" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">1 year, 6 months, 5 days on GitHub</tspan></text>
+  <text x="470" y="129" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">Ho Chi Minh City, Vietnam</tspan></text>
+  <text x="470" y="150" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">........................... </tspan><tspan fill="#c9d1d9">Full-Stack Developer</tspan></text>
+  <text x="470" y="171" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">................................... </tspan><tspan fill="#c9d1d9">Cursor, VS Code</tspan></text>
+  <text x="470" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">TypeScript, JavaScript, C#, Dart, Rust</tspan></text>
+  <text x="470" y="234" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Vietnamese (Native), English</tspan></text>
+  <text x="470" y="255" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">..... </tspan><tspan fill="#c9d1d9">Coding, Tech Blogging, AI Agent Workflows</tspan></text>
+  <text x="470" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
+  <text x="470" y="318" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">nguyenngoctinh011258@gmail.com</tspan></text>
+  <text x="470" y="339" xml:space="preserve"><tspan fill="#ffa657">GitHub: </tspan><tspan fill="#484f58">.......................... </tspan><tspan fill="#c9d1d9">github.com/twotnguyen</tspan></text>
+  <text x="470" y="381" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+  <text x="470" y="402" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">20 {Contributed: 3}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">5</tspan></text>
+  <text x="470" y="423" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">3,581</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">5</tspan></text>
+  <text x="470" y="444" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">7,001,515</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">10,299,760++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">3,298,245--</tspan><tspan fill="#484f58"> )</tspan></text>
 </svg>

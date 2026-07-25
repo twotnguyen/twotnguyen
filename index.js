@@ -486,8 +486,8 @@ const escapeHtml = (unsafe) => {
 const renderProfileSVG = (mode, stats) => {
   const p = PALETTES[mode];
   const out = [
-    `<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">`,
-    `  <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="${p.bg}" stroke="${p.border}"/>`
+    `<svg xmlns="http://www.w3.org/2000/svg" width="930" height="500" viewBox="0 0 930 500" font-family="Consolas, Menlo, monospace" font-size="13px">`,
+    `  <rect x="0.5" y="0.5" width="929" height="499" rx="10" fill="${p.bg}" stroke="${p.border}"/>`
   ];
 
   const artLines = ART.split("\n");
@@ -499,7 +499,7 @@ const renderProfileSVG = (mode, stats) => {
   infoLines.forEach((segs, i) => {
     if (segs.length === 0) return;
     const spans = segs.map(seg => `<tspan fill="${p[seg.color]}">${escapeHtml(seg.text)}</tspan>`).join('');
-    out.push(`  <text x="390" y="${45 + i * 21}" xml:space="preserve">${spans}</text>`);
+    out.push(`  <text x="470" y="${45 + i * 21}" xml:space="preserve">${spans}</text>`);
   });
 
   out.push(`</svg>`);
