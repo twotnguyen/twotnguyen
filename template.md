@@ -98,49 +98,51 @@
 
 ## 📂 Featured Projects
 
-### 🚀 [Antigravity Cockpit (v3.0 alpha)](https://github.com/twotnguyen/twotnguyen)
+### 🚀 [PlantUML Importer](https://github.com/twotnguyen/staruml-plantuml-importer)
+> **StarUML Extension for PlantUML Parsing & Auto-Layout (5 ⭐)**
+- Developed and published a StarUML plugin that parses PlantUML syntax and auto-generates 7 diagram types (Class, Sequence, Use Case, Activity, State, ER, Mindmap) as native models.
+- Implemented an enhanced **Sugiyama hierarchical layout algorithm** for Class diagrams and a dynamic grid layout for Activity diagrams.
+- Maintained a regression test suite with 30+ fixtures and cross-platform installation tools.
 
-> **VS Code Extension Productivity Tooling**
-
-- Developed a high-performance productivity tool for VS Code using **TypeScript** and the **VS Code Extension API**.
-- Implemented a premium **floating card overlay (HUD)** inside the editor workspace via WebView.
-- Refactored the core extension to a clean **MVC architecture**.
-- Integrated **WebAssembly sql.js** to run database analytics against editor state files (`state.vscdb`) locally.
-- Added localization support for **15+ languages**.
-
-### 🌍 [TravelConnectVN](https://github.com/twotnguyen/twotnguyen)
-
-> **Full-Stack Travel Booking & Social Platform**
-
+### 🌍 [TravelConnectVN](https://github.com/twotnguyen/TravelConnectVN)
+> **Full-Stack Travel Booking & Social Platform (Capstone Project)**
 - Built an end-to-end booking platform with a monolithic **NestJS** backend and a **React 19** frontend.
 - Designed scalable asynchronous workflows utilizing **BullMQ** messaging queues and **Redis** cache.
 - Integrated real-time chat gateways using **Socket.IO** backed by Redis scaling adapters.
 - Implemented **Supabase Row-Level Security (RLS)** policies to restrict database tables securely.
-- Integrated **Gemini AI** for interactive personalized itineraries creation.
-- Conducted E2E automation tests with **Playwright**.
+- Integrated **Gemini AI** for interactive personalized itineraries creation and content moderation.
 
-### 📦 [Cockpit Tools](https://github.com/twotnguyen/twotnguyen)
+### ⚽ [GoalTrack](https://github.com/twotnguyen/goal-track)
+> **Live football match-tracking site & automated update pipeline (🟢 Live)**
+- Shipped and deployed a live football match-tracking site (`twotnguyen.github.io/goal-track`) built with vanilla JS and custom CSS in 2 days.
+- Built a Playwright-based scraper in Node.js extracting live scores from JS-heavy sites with change-detection logic.
+- Automated a self-updating data pipeline via GitHub Actions (cron every 4 hours) that scrapes, diffs, and commits back to the repo autonomously.
 
+### 🚀 [Antigravity Cockpit (v3.0 alpha)](https://github.com/twotnguyen/antigravity-cockpit)
+> **VS Code Extension Productivity Tooling**
+- Developed a high-performance productivity tool for VS Code using **TypeScript** and the **VS Code Extension API**.
+- Implemented a premium **floating card overlay (HUD)** inside the editor workspace via WebView.
+- Integrated **WebAssembly sql.js** to run database analytics against editor state files (`state.vscdb`) locally.
+
+### 📦 [Cockpit Tools](https://github.com/twotnguyen/AG-quota-manager)
 > **AI Developer Quota Desktop Client**
-
 - Programmed a lightweight cross-platform desktop application using **Tauri v2** and **Rust**.
 - Engineered multi-platform async checks using **tokio** and process inspection using **sysinfo**.
 - Designed a sleek, responsive dark-mode cockpit dashboard using **React 19**, **TailwindCSS**, and **DaisyUI**.
 
-### 💻 [PowerTech](https://github.com/twotnguyen/twotnguyen)
-
+### 💻 [PowerTech](https://github.com/twotnguyen/PowerTech)
 > **Enterprise Computer Hardware E-Commerce Platform**
-
-- Structured an e-commerce platform using **C#** and **ASP.NET Core MVC** (.NET 9.0).
-- Modularized systems into **6 distinct Areas** (Storefront, Customer, Sales, Warehouse, Support, Shipper).
+- Structured an e-commerce platform using **C#** and **ASP.NET Core MVC** (.NET 9.0) with 8 distinct Areas.
 - Implemented role-based authorization using **ASP.NET Core Identity** and real-time ticketing notifications using **SignalR Hubs**.
-- Configured entity migrations and seed engines containing hundreds of items in **MS SQL Server** using **EF Core**.
+- Cleaned up git credentials history and migrated secret keys to **.NET User Secrets** for security.
 
 ---
 
 ## 📊 Activity & Contributions
 
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twotnguyen&layout=compact&theme=tokyo-night&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twotnguyen&theme=tokyo-night&hide_border=true&area=true)](https://github.com/twotnguyen)
 
