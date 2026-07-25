@@ -29,11 +29,11 @@
 ```json
 {
   "name": "Twot Nguyen",
-  "role": "Software Engineer",
+  "role": "Full-Stack Web Developer (TypeScript)",
   "based_in": "Ho Chi Minh City, Vietnam",
   "core_stack": ["TypeScript", "React", "NestJS", "PostgreSQL"],
-  "other_stacks": ["Flutter / Dart", "C# / .NET 9", "Tauri / Rust", "Python"],
-  "side_quest": "Designing custom VS Code extensions & AI agent workflows",
+  "other_tools": ["Flutter / Dart", "C# / .NET", "Python"],
+  "side_quest": "Building developer tools and automation scripts",
   "motto": "Build robust, modular, and developer-friendly systems."
 }
 ```
@@ -158,7 +158,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The more knowledge you have, the more you're free to rely on your instincts." - Arnold Schwarzenegger](quote.svg?v=1784990321382)
+![Quote of the Day: "When you are tempted to give up, your breakthrough is probably just around the corner." - Joyce Meyer](quote.svg?v=1784990866090)
 
 </div>
 

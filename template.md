@@ -29,11 +29,11 @@
 ```json
 {
   "name": "Twot Nguyen",
-  "role": "Software Engineer",
+  "role": "Full-Stack Web Developer (TypeScript)",
   "based_in": "Ho Chi Minh City, Vietnam",
   "core_stack": ["TypeScript", "React", "NestJS", "PostgreSQL"],
-  "other_stacks": ["Flutter / Dart", "C# / .NET 9", "Tauri / Rust", "Python"],
-  "side_quest": "Designing custom VS Code extensions & AI agent workflows",
+  "other_tools": ["Flutter / Dart", "C# / .NET", "Python"],
+  "side_quest": "Building developer tools and automation scripts",
   "motto": "Build robust, modular, and developer-friendly systems."
 }
 ```
