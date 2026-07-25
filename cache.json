@@ -1,0 +1,118 @@
+{
+  "repos": {
+    "GALAXY_FIGHTER": {
+      "headCommit": "78ba2c40ad6611690035c744c859669f8f90ccc5",
+      "loc_add": 647671,
+      "loc_del": 638903,
+      "loc": 8768
+    },
+    "bmttnc_S7_4851": {
+      "headCommit": "9356cf65ee0ea11167f643e63023ba9f83936c0c",
+      "loc_add": 5247,
+      "loc_del": 401,
+      "loc": 4846
+    },
+    "love-web": {
+      "headCommit": "b0542cff72dfef766ec404d43062de47b333c207",
+      "loc_add": 2353,
+      "loc_del": 69,
+      "loc": 2284
+    },
+    "TH_LT_Web": {
+      "headCommit": "d0513d366081a25cf71dd875f8a159b7db89a310",
+      "loc_add": 261600,
+      "loc_del": 68,
+      "loc": 261532
+    },
+    "Flutter_Music_App": {
+      "headCommit": "1bfcd3bc7ce333902af032aa3c201c95b1e3e411",
+      "loc_add": 27360,
+      "loc_del": 7014,
+      "loc": 20346
+    },
+    "PowerTech": {
+      "headCommit": "dfe73afbfa224b9b4bc8ee4bd021ac53cb11cd7f",
+      "loc_add": 166249,
+      "loc_del": 38889,
+      "loc": 127360
+    },
+    "SkyO-Coffe": {
+      "headCommit": "9a411ce49409f56876596cfe1c78bef22f206087",
+      "loc_add": 1586,
+      "loc_del": 501,
+      "loc": 1085
+    },
+    "TravelConnectVN": {
+      "headCommit": "c98ea31664c9e260040ac4a0daa785c5c4060eaa",
+      "loc_add": 475769,
+      "loc_del": 485723,
+      "loc": -9954
+    },
+    "COS340-open-source-software-development": {
+      "headCommit": "d7678053d04fe896f11dbac25f77c329f0a12fe2",
+      "loc_add": 35246,
+      "loc_del": 21731,
+      "loc": 13515
+    },
+    "my-agent-skills": {
+      "headCommit": "4eb72beaa4f65d0a4b5f515ee3f208ba5a9e67fa",
+      "loc_add": 61358,
+      "loc_del": 51364,
+      "loc": 9994
+    },
+    "pharmaassist-data-collector": {
+      "headCommit": "53a1b89a89f9d6d8a594ddc728199508676f43a4",
+      "loc_add": 203019,
+      "loc_del": 1177,
+      "loc": 201842
+    },
+    "staruml-plantuml-importer": {
+      "headCommit": "3c73e7203c4bc6d3c8ada28e5d6b01f8b2047a72",
+      "loc_add": 108901,
+      "loc_del": 98506,
+      "loc": 10395
+    },
+    "PharmaAssist-Figma-Design": {
+      "headCommit": "23405a1bb5d4ef07585339a593c8a6b4740b93e6",
+      "loc_add": 49600,
+      "loc_del": 1596,
+      "loc": 48004
+    },
+    "AG-quota-manager": {
+      "headCommit": "f2b42e5790160b40f9c28638367ed68bd20fcb49",
+      "loc_add": 129543,
+      "loc_del": 89461,
+      "loc": 40082
+    },
+    "PharmaAssist": {
+      "headCommit": "eab399d1dc368d46299334240b911bec3c7f24fe",
+      "loc_add": 8102162,
+      "loc_del": 1857325,
+      "loc": 6244837
+    },
+    "goal-track": {
+      "headCommit": "bbd2a0a8ea578672b2aaceb10b7b3d467fbd36b5",
+      "loc_add": 16002,
+      "loc_del": 4354,
+      "loc": 11648
+    },
+    "agy-skills": {
+      "headCommit": "aacf87474b095ea17883ffc8ab123a360d5c4786",
+      "loc_add": 567,
+      "loc_del": 0,
+      "loc": 567
+    },
+    "twotnguyen": {
+      "headCommit": "66d9c78546f5fbf2b42545efba26feb93de87e1d",
+      "loc_add": 1337,
+      "loc_del": 741,
+      "loc": 596
+    },
+    "1-2-3-nguoi": {
+      "headCommit": "e1cf1201bc1dea077056cc40cbad51c05b9e1764",
+      "loc_add": 4190,
+      "loc_del": 422,
+      "loc": 3768
+    }
+  }
+}

@@ -1,8 +1,20 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg">
+  <img alt="Twot Nguyen's GitHub profile" src="profile_dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 # Hi there, I'm Twot Nguyen 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer+(React+%2F+NestJS);Cross-Platform+Mobile+Creator+(Flutter);Desktop+%26+Tooling+Builder+(Tauri+%2F+Rust+%2F+C%23))](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer+(React+%2F+NestJS);Cross-Platform+Mobile+Creator+(Flutter);Desktop+%26+Tooling+Builder+(Tauri+%2F+Rust+%2F+C%23)>)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/twotnguyen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/twotnguyen)
 [![GitHub stars](https://img.shields.io/github/stars/twotnguyen?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/twotnguyen)
@@ -41,6 +53,7 @@
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -51,6 +64,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Web & Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -60,6 +74,7 @@
 ![BullMQ](https://img.shields.io/badge/BullMQ-E0234E?style=flat-square&logo=redis&logoColor=white)
 
 ### Frontend & Mobile
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443322?style=flat-square&logo=react&logoColor=white)
@@ -69,6 +84,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Databases & DevOps
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -83,7 +99,9 @@
 ## 📂 Featured Projects
 
 ### 🚀 [Antigravity Cockpit (v3.0 alpha)](https://github.com/twotnguyen/twotnguyen)
+
 > **VS Code Extension Productivity Tooling**
+
 - Developed a high-performance productivity tool for VS Code using **TypeScript** and the **VS Code Extension API**.
 - Implemented a premium **floating card overlay (HUD)** inside the editor workspace via WebView.
 - Refactored the core extension to a clean **MVC architecture**.
@@ -91,7 +109,9 @@
 - Added localization support for **15+ languages**.
 
 ### 🌍 [TravelConnectVN](https://github.com/twotnguyen/twotnguyen)
+
 > **Full-Stack Travel Booking & Social Platform**
+
 - Built an end-to-end booking platform with a monolithic **NestJS** backend and a **React 19** frontend.
 - Designed scalable asynchronous workflows utilizing **BullMQ** messaging queues and **Redis** cache.
 - Integrated real-time chat gateways using **Socket.IO** backed by Redis scaling adapters.
@@ -100,13 +120,17 @@
 - Conducted E2E automation tests with **Playwright**.
 
 ### 📦 [Cockpit Tools](https://github.com/twotnguyen/twotnguyen)
+
 > **AI Developer Quota Desktop Client**
+
 - Programmed a lightweight cross-platform desktop application using **Tauri v2** and **Rust**.
 - Engineered multi-platform async checks using **tokio** and process inspection using **sysinfo**.
 - Designed a sleek, responsive dark-mode cockpit dashboard using **React 19**, **TailwindCSS**, and **DaisyUI**.
 
 ### 💻 [PowerTech](https://github.com/twotnguyen/twotnguyen)
+
 > **Enterprise Computer Hardware E-Commerce Platform**
+
 - Structured an e-commerce platform using **C#** and **ASP.NET Core MVC** (.NET 9.0).
 - Modularized systems into **6 distinct Areas** (Storefront, Customer, Sales, Warehouse, Support, Shipper).
 - Implemented role-based authorization using **ASP.NET Core Identity** and real-time ticketing notifications using **SignalR Hubs**.
@@ -121,6 +145,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twotnguyen&theme=tokyo-night&hide_border=true&area=true)](https://github.com/twotnguyen)
 
 ### 🐍 Contribution Snake
+
 ![Snake animation](https://raw.githubusercontent.com/twotnguyen/twotnguyen/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -141,6 +166,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-*One must imagine a system happy.*
+_One must imagine a system happy._
 
 </div>
