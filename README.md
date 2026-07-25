@@ -156,7 +156,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1784971834262)
+![Quote of the Day: "Before software can be reusable it first has to be usable." - Ralph Johnson](quote.svg?v=1784971975857)
 
 </div>
 
