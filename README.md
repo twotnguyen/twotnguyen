@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler](quote.svg?v=1784992791451)
+![Quote of the Day: "Art is the signature of civilizations." - Beverly Sills](quote.svg?v=1784993068461)
 
 </div>
 
