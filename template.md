@@ -43,8 +43,8 @@
 ## 🎯 Current Focus
 
 ```text
-🔭 Side project  Antigravity Cockpit (VS Code Extension) & Cockpit Tools (Tauri v2 + Rust)
-💬 Ask me about  React, NestJS, Flutter, Tauri, VS Code Extension API
+🔭 Side project  Antigravity Cockpit (VS Code Extension)
+💬 Ask me about  TypeScript, React, NestJS, PostgreSQL, REST APIs
 ⚡ Fun fact      I design custom AI agent rules & workflows to automate development
 ```
 
@@ -52,65 +52,39 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### Languages
+### 💻 Languages & Core Web
+- **Core Stacks:** TypeScript, JavaScript, SQL (PostgreSQL)
+- **Familiar / Academic:** C#, Python, Dart, C++, Java
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### 🔧 Frontend & Mobile
+- **Core Stacks:** React, Vite, Zustand, TanStack Query, Tailwind CSS
+- **Familiar:** Flutter, Riverpod, HTML5/CSS3
 
-### Web & Backend
+### ⚙️ Backend & Systems
+- **Core Stacks:** Node.js, NestJS, Express, Socket.IO, BullMQ
+- **Familiar:** ASP.NET Core, SignalR, Deno
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-E0234E?style=flat-square&logo=redis&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443322?style=flat-square&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Databases & DevOps
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+### 🗄️ Databases & DevOps
+- **Core Stacks:** PostgreSQL, Redis, Docker, GitHub Actions
+- **Familiar:** MS SQL Server, SQLite, Supabase, Playwright
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚀 [PlantUML Importer](https://github.com/twotnguyen/staruml-plantuml-importer)
-> **StarUML Extension for PlantUML Parsing & Auto-Layout (5 ⭐)**
-- Developed and published a StarUML plugin that parses PlantUML syntax and auto-generates 7 diagram types (Class, Sequence, Use Case, Activity, State, ER, Mindmap) as native models.
-- Implemented an enhanced **Sugiyama hierarchical layout algorithm** for Class diagrams and a dynamic grid layout for Activity diagrams.
-- Maintained a regression test suite with 30+ fixtures and cross-platform installation tools.
-
 ### 🌍 [TravelConnectVN](https://github.com/twotnguyen/TravelConnectVN)
-> **Full-Stack Travel Booking & Social Platform (Capstone Project)**
-- Built an end-to-end booking platform with a monolithic **NestJS** backend and a **React 19** frontend.
+> **Full-Stack Travel Booking & Social Platform (React 19 / NestJS)**
+- Built a two-sided travel marketplace with a monolithic **NestJS** backend (30 domain modules) and a **React 19** frontend (78 pages).
 - Designed scalable asynchronous workflows utilizing **BullMQ** messaging queues and **Redis** cache.
 - Integrated real-time chat gateways using **Socket.IO** backed by Redis scaling adapters.
 - Implemented **Supabase Row-Level Security (RLS)** policies to restrict database tables securely.
 - Integrated **Gemini AI** for interactive personalized itineraries creation and content moderation.
+
+### 🔌 [PlantUML Importer](https://github.com/twotnguyen/staruml-plantuml-importer)
+> **StarUML Extension for PlantUML Parsing & Auto-Layout (JavaScript)**
+- Developed and published a StarUML plugin (5 ⭐ on GitHub) that parses PlantUML syntax and auto-generates 7 diagram types as native models.
+- Implemented an enhanced **Sugiyama hierarchical layout algorithm** for Class diagrams and a dynamic grid layout for Activity diagrams.
+- Maintained a regression test suite with 30+ fixtures and cross-platform installation tools.
 
 ### ⚽ [GoalTrack](https://github.com/twotnguyen/goal-track)
 > **Live football match-tracking site & automated update pipeline (🟢 Live)**
@@ -118,23 +92,12 @@
 - Built a Playwright-based scraper in Node.js extracting live scores from JS-heavy sites with change-detection logic.
 - Automated a self-updating data pipeline via GitHub Actions (cron every 4 hours) that scrapes, diffs, and commits back to the repo autonomously.
 
-### 🚀 [Antigravity Cockpit (v3.0 alpha)](https://github.com/twotnguyen/antigravity-cockpit)
-> **VS Code Extension Productivity Tooling**
+### 🚀 [Antigravity Cockpit](https://github.com/twotnguyen/antigravity-cockpit)
+> **VS Code Extension Productivity Tooling (TypeScript)**
 - Developed a high-performance productivity tool for VS Code using **TypeScript** and the **VS Code Extension API**.
 - Implemented a premium **floating card overlay (HUD)** inside the editor workspace via WebView.
 - Integrated **WebAssembly sql.js** to run database analytics against editor state files (`state.vscdb`) locally.
 
-### 📦 [Cockpit Tools](https://github.com/twotnguyen/AG-quota-manager)
-> **AI Developer Quota Desktop Client**
-- Programmed a lightweight cross-platform desktop application using **Tauri v2** and **Rust**.
-- Engineered multi-platform async checks using **tokio** and process inspection using **sysinfo**.
-- Designed a sleek, responsive dark-mode cockpit dashboard using **React 19**, **TailwindCSS**, and **DaisyUI**.
-
-### 💻 [PowerTech](https://github.com/twotnguyen/PowerTech)
-> **Enterprise Computer Hardware E-Commerce Platform**
-- Structured an e-commerce platform using **C#** and **ASP.NET Core MVC** (.NET 9.0) with 8 distinct Areas.
-- Implemented role-based authorization using **ASP.NET Core Identity** and real-time ticketing notifications using **SignalR Hubs**.
-- Cleaned up git credentials history and migrated secret keys to **.NET User Secrets** for security.
 
 ---
 

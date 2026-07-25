@@ -26,8 +26,8 @@
   <rect width="600" height="144" class="background"/>
   <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>When you are tempted to give up, your breakthrough is probably</text>
-  <text x="45" y="72" class="quote-text">just around the corner.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Measuring programming progress by lines of code is like</text>
+  <text x="45" y="72" class="quote-text">measuring aircraft building progress by weight.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="108" text-anchor="end" class="author-text">- Joyce Meyer</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Bill Gates</text>
 </svg>
