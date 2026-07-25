@@ -14,7 +14,7 @@
 
 # Hi there, I'm Twot Nguyen 👋
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(TypeScript);React+%26+NestJS+Specialist;Building+Developer+Tools+%26+Automations>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(TypeScript);Focusing+on+React+%26+NestJS;Building+Developer+Tools+%26+Automations;Avid+Reader+%26+Continuous+Learner;Coding+with+Lo-fi+Beats+%26+Coffee>)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/twotnguyen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/twotnguyen)
 [![GitHub stars](https://img.shields.io/github/stars/twotnguyen?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/twotnguyen)
