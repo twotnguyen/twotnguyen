@@ -387,7 +387,7 @@ const PALETTES = {
 const W = 56;
 
 const calculateUptime = () => {
-  const BIRTHDAY = null; // Set to new Date(YYYY, MM - 1, DD) if desired
+  const BIRTHDAY = new Date(2005, 10, 8); // Nov 8, 2005 (Month is 0-indexed)
   const startDate = BIRTHDAY || new Date(2025, 0, 21); // Jan 21, 2025 (Joined Date)
   const now = new Date();
 
@@ -459,13 +459,13 @@ const getInfoLines = (stats) => {
       { text: "─".repeat(W - "twotnguyen@github ".length), color: "d" }
     ],
     [],
-    kv("OS", "macOS, Windows, Linux"),
+    kv("OS", "macOS, Windows"),
     kv("Uptime", uptimeStr),
     kv("Host", "Ho Chi Minh City, Vietnam"),
     kv("Kernel", "Full-Stack Developer"),
-    kv("IDE", "Cursor, VS Code"),
+    kv("IDE", "VS Code, Claude Code, Antigravity, Codex"),
     [],
-    kv("Languages.Programming", "TypeScript, JavaScript, C#, Dart, Rust"),
+    kv("Languages.Programming", "Type, JavaScript, C#, HTML, CSS, .."),
     kv("Languages.Real", "Vietnamese (Native), English"),
     kv("Hobbies", "Coding, Tech Blogging, AI Agent Workflows"),
     [],

@@ -26,7 +26,7 @@
   <rect width="600" height="120" class="background"/>
   <rect x="12" y="16" width="4" height="88" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>It doesn&apos;t matter how slow you go, as long as you don&apos;t stop.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Think and wonder, wonder and think.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="84" text-anchor="end" class="author-text">- Confucius</text>
+  <text x="560" y="84" text-anchor="end" class="author-text">- Dr. Seuss</text>
 </svg>
