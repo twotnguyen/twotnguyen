@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "By perseverance the snail reached the ark." - Charles Spurgeon](quote.svg?v=1784992158208)
+![Quote of the Day: "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie](quote.svg?v=1784992349597)
 
 </div>
 
