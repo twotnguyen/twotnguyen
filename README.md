@@ -156,7 +156,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Think and wonder, wonder and think." - Dr. Seuss](quote.svg?v=1784972979064)
+![Quote of the Day: "It's not a bug — it's an undocumented feature." - Anonymous](quote.svg?v=1784973183938)
 
 </div>
 
