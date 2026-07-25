@@ -467,7 +467,7 @@ const getInfoLines = (stats) => {
     [],
     kv("Languages.Programming", "Type, JavaScript, C#, HTML, CSS, .."),
     kv("Languages.Real", "Vietnamese (Native), English"),
-    kv("Hobbies", "Coding, Music, Economics, AI Agent Workflows"),
+    kv("Hobbies", "Coding, Music, Reading, AI Agent Workflows"),
     [],
     rule("Contact"),
     kv("Email", "nguyenngoctinh011258@gmail.com"),

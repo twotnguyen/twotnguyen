@@ -156,7 +156,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "It's not a bug — it's an undocumented feature." - Anonymous](quote.svg?v=1784973183938)
+![Quote of the Day: "Things turn out best for the people who make the best of the way things turn out." - John Wooden](quote.svg?v=1784973255409)
 
 </div>
 
