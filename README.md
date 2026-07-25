@@ -156,7 +156,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie](quote.svg?v=1784972106459)
+![Quote of the Day: "It doesn't matter how slow you go, as long as you don't stop." - Confucius](quote.svg?v=1784972733157)
 
 </div>
 

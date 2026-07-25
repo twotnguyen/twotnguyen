@@ -1,11 +1,5 @@
 {
   "repos": {
-    "GALAXY_FIGHTER": {
-      "headCommit": "78ba2c40ad6611690035c744c859669f8f90ccc5",
-      "loc_add": 647671,
-      "loc_del": 638903,
-      "loc": 8768
-    },
     "bmttnc_S7_4851": {
       "headCommit": "9356cf65ee0ea11167f643e63023ba9f83936c0c",
       "loc_add": 5247,
@@ -17,12 +11,6 @@
       "loc_add": 2353,
       "loc_del": 69,
       "loc": 2284
-    },
-    "TH_LT_Web": {
-      "headCommit": "d0513d366081a25cf71dd875f8a159b7db89a310",
-      "loc_add": 261600,
-      "loc_del": 68,
-      "loc": 261532
     },
     "Flutter_Music_App": {
       "headCommit": "1bfcd3bc7ce333902af032aa3c201c95b1e3e411",
@@ -42,12 +30,6 @@
       "loc_del": 501,
       "loc": 1085
     },
-    "TravelConnectVN": {
-      "headCommit": "c98ea31664c9e260040ac4a0daa785c5c4060eaa",
-      "loc_add": 475769,
-      "loc_del": 485723,
-      "loc": -9954
-    },
     "COS340-open-source-software-development": {
       "headCommit": "d7678053d04fe896f11dbac25f77c329f0a12fe2",
       "loc_add": 35246,
@@ -59,12 +41,6 @@
       "loc_add": 61358,
       "loc_del": 51364,
       "loc": 9994
-    },
-    "pharmaassist-data-collector": {
-      "headCommit": "53a1b89a89f9d6d8a594ddc728199508676f43a4",
-      "loc_add": 203019,
-      "loc_del": 1177,
-      "loc": 201842
     },
     "staruml-plantuml-importer": {
       "headCommit": "3c73e7203c4bc6d3c8ada28e5d6b01f8b2047a72",
@@ -84,12 +60,6 @@
       "loc_del": 89461,
       "loc": 40082
     },
-    "PharmaAssist": {
-      "headCommit": "eab399d1dc368d46299334240b911bec3c7f24fe",
-      "loc_add": 8102162,
-      "loc_del": 1857325,
-      "loc": 6244837
-    },
     "goal-track": {
       "headCommit": "bbd2a0a8ea578672b2aaceb10b7b3d467fbd36b5",
       "loc_add": 16002,
@@ -103,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "9539853e0fc450395321b1e28c0df24a6114a1d6",
-      "loc_add": 2303,
-      "loc_del": 971,
-      "loc": 1332
+      "headCommit": "1a14cd70b224a4a6daa6948dee02c2cd25223743",
+      "loc_add": 2318,
+      "loc_del": 985,
+      "loc": 1333
     },
     "1-2-3-nguoi": {
       "headCommit": "e1cf1201bc1dea077056cc40cbad51c05b9e1764",

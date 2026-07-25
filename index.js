@@ -140,11 +140,25 @@ const loadArchive = () => {
   return { repos: [] };
 };
 
+const IGNORED_REPOS = [
+  "PharmaAssist",
+  "GALAXY_FIGHTER",
+  "TravelConnectVN",
+  "TH_LT_Web",
+  "pharmaassist-data-collector"
+];
+
 const getLoc = async (reposList, userId, cache) => {
   let add = 0;
   let rem = 0;
   for (const repo of reposList) {
     const name = repo.name;
+
+    if (IGNORED_REPOS.includes(name)) {
+      console.log(`[SKIP] Ignoring LOC for ${name} to prevent stats inflation`);
+      continue;
+    }
+
     const ref = repo.defaultBranchRef;
     const currentOid = ref ? ref.target.oid : null;
     
