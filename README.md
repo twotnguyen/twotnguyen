@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie](quote.svg?v=1784992349597)
+![Quote of the Day: "Code is like humor. When you have to explain it, it's bad." - Cory House](quote.svg?v=1784992483200)
 
 </div>
 
