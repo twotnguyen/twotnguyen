@@ -57,8 +57,8 @@
 - **Familiar / Academic:** C#, Python, Dart, C++, Java
 
 ### 🔧 Frontend & Mobile
-- **Core Stacks:** React, Vite, Zustand, TanStack Query, Tailwind CSS
-- **Familiar:** Flutter, Riverpod, HTML5/CSS3
+- **Core Stacks:** React, Vite, HTML5/CSS3, Zustand, TanStack Query, Tailwind CSS
+- **Familiar:** Flutter, Riverpod
 
 ### ⚙️ Backend & Systems
 - **Core Stacks:** Node.js, NestJS, Express, Socket.IO, BullMQ

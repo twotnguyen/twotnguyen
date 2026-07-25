@@ -57,8 +57,8 @@
 - **Familiar / Academic:** C#, Python, Dart, C++, Java
 
 ### 🔧 Frontend & Mobile
-- **Core Stacks:** React, Vite, Zustand, TanStack Query, Tailwind CSS
-- **Familiar:** Flutter, Riverpod, HTML5/CSS3
+- **Core Stacks:** React, Vite, HTML5/CSS3, Zustand, TanStack Query, Tailwind CSS
+- **Familiar:** Flutter, Riverpod
 
 ### ⚙️ Backend & Systems
 - **Core Stacks:** Node.js, NestJS, Express, Socket.IO, BullMQ
@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates](quote.svg?v=1784990911631)
+![Quote of the Day: "Code is like humor. When you have to explain it, it's bad." - Cory House](quote.svg?v=1784991264203)
 
 </div>
 
