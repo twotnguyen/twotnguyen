@@ -19,10 +19,10 @@
       "loc": 20346
     },
     "PowerTech": {
-      "headCommit": "dfe73afbfa224b9b4bc8ee4bd021ac53cb11cd7f",
-      "loc_add": 166249,
-      "loc_del": 38889,
-      "loc": 127360
+      "headCommit": "7732c59fe9909991a7d5908406cbe1df946e488f",
+      "loc_add": 166421,
+      "loc_del": 39028,
+      "loc": 127393
     },
     "SkyO-Coffe": {
       "headCommit": "9a411ce49409f56876596cfe1c78bef22f206087",
@@ -43,10 +43,10 @@
       "loc": 9994
     },
     "staruml-plantuml-importer": {
-      "headCommit": "3c73e7203c4bc6d3c8ada28e5d6b01f8b2047a72",
-      "loc_add": 108901,
-      "loc_del": 98506,
-      "loc": 10395
+      "headCommit": "ee5f058b6c8282077b45a5d274d91465256da5e0",
+      "loc_add": 111295,
+      "loc_del": 98511,
+      "loc": 12784
     },
     "PharmaAssist-Figma-Design": {
       "headCommit": "23405a1bb5d4ef07585339a593c8a6b4740b93e6",
@@ -73,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "dd884ae989e54749c63d5d7e1ec3db019ffdef0a",
-      "loc_add": 2382,
-      "loc_del": 1066,
-      "loc": 1316
+      "headCommit": "f18e3a9e8cec561077bb5711b96f57546c6788de",
+      "loc_add": 2803,
+      "loc_del": 1418,
+      "loc": 1385
     },
     "1-2-3-nguoi": {
       "headCommit": "e1cf1201bc1dea077056cc40cbad51c05b9e1764",

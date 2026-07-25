@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1784991428410)
+![Quote of the Day: "The highest level of wisdom is when you not only accept but love adversity." - Maxime Lagace](quote.svg?v=1784991905172)
 
 </div>
 
