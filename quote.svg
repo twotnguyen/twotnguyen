@@ -26,8 +26,8 @@
   <rect width="600" height="144" class="background"/>
   <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>The highest level of wisdom is when you not only accept but</text>
-  <text x="45" y="72" class="quote-text">love adversity.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>We cannot expect to be happy always... by experiencing evil as</text>
+  <text x="45" y="72" class="quote-text">well as good we become wise.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="108" text-anchor="end" class="author-text">- Maxime Lagace</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Hans Christian Andersen</text>
 </svg>

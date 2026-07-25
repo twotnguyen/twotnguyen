@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The highest level of wisdom is when you not only accept but love adversity." - Maxime Lagace](quote.svg?v=1784991905172)
+![Quote of the Day: "We cannot expect to be happy always... by experiencing evil as well as good we become wise." - Hans Christian Andersen](quote.svg?v=1784992118128)
 
 </div>
 
