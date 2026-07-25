@@ -74,15 +74,15 @@
 
 ### 🌍 [TravelConnectVN](https://github.com/twotnguyen/TravelConnectVN)
 > **Full-Stack Travel Booking & Social Platform (React 19 / NestJS)**
-- Built a two-sided travel marketplace with a monolithic **NestJS** backend (30 domain modules) and a **React 19** frontend (78 pages).
-- Designed scalable asynchronous workflows utilizing **BullMQ** messaging queues and **Redis** cache.
-- Integrated real-time chat gateways using **Socket.IO** backed by Redis scaling adapters.
-- Implemented **Supabase Row-Level Security (RLS)** policies to restrict database tables securely.
-- Integrated **Gemini AI** for interactive personalized itineraries creation and content moderation.
+- Designed and built a two-sided travel marketplace with a monolithic **NestJS** backend (30 domain modules) and a **React 19** frontend (78 pages).
+- Managed project lifecycle across 16 sprints and documented design patterns using **Architecture Decision Records (ADR)**.
+- Engineered scalable asynchronous workflows using **BullMQ** queues, **Redis** cache, and real-time **Socket.IO** gateways.
+- Enforced a 2-stage CI pipeline with unit testing and **Playwright E2E automation tests**.
+- Integrated **Gemini AI** for interactive personalized itineraries creation and automated content moderation.
 
 ### 🔌 [PlantUML Importer](https://github.com/twotnguyen/staruml-plantuml-importer)
 > **StarUML Extension for PlantUML Parsing & Auto-Layout (JavaScript)**
-- Developed and published a StarUML plugin (5 ⭐ on GitHub) that parses PlantUML syntax and auto-generates 7 diagram types as native models.
+- Developed and published a StarUML plugin (5 ⭐ on GitHub) that parses PlantUML syntax to generate native UML models.
 - Implemented an enhanced **Sugiyama hierarchical layout algorithm** for Class diagrams and a dynamic grid layout for Activity diagrams.
 - Maintained a regression test suite with 30+ fixtures and cross-platform installation tools.
 
@@ -94,8 +94,8 @@
 
 ### 🚀 [Antigravity Cockpit](https://github.com/twotnguyen/antigravity-cockpit)
 > **VS Code Extension Productivity Tooling (TypeScript)**
-- Developed a high-performance productivity tool for VS Code using **TypeScript** and the **VS Code Extension API**.
-- Implemented a premium **floating card overlay (HUD)** inside the editor workspace via WebView.
+- Developed a high-performance productivity tool for VS Code using **TypeScript** and the **VS Code Extension API** structured in clean **MVC architecture**.
+- Implemented a premium **floating card overlay (HUD)** inside the editor workspace via WebView with **15+ languages** localization.
 - Integrated **WebAssembly sql.js** to run database analytics against editor state files (`state.vscdb`) locally.
 
 
@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Code is like humor. When you have to explain it, it's bad." - Cory House](quote.svg?v=1784991264203)
+![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1784991428410)
 
 </div>
 
