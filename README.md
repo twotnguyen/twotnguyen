@@ -131,7 +131,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "It's not a bug — it's an undocumented feature." - Anonymous](quote.svg?v=1784861534171)
+![Quote of the Day: "There is no truth. There is only perception." - Gustave Flaubert](quote.svg?v=1784947902723)
 
 </div>
 
