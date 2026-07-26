@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Good code is its own best documentation." - Steve McConnell](quote.svg?v=1784993667290)
+![Quote of the Day: "If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." - Celestine Chua](quote.svg?v=1785035810287)
 
 </div>
 
