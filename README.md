@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." - Celestine Chua](quote.svg?v=1785035810287)
+![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1785122807952)
 
 </div>
 
