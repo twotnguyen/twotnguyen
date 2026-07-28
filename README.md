@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1785122807952)
+![Quote of the Day: "You don't get in life what you want; you get in life what you are." - Les Brown](quote.svg?v=1785206638932)
 
 </div>
 
