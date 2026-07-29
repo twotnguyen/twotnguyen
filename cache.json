@@ -13,7 +13,7 @@
       "loc": 2284
     },
     "Flutter_Music_App": {
-      "headCommit": "4ea0734daf3b1cb1efb5be0f8a36284af18f7652",
+      "headCommit": "f7d88041808666bb962e00e33f3db0bd8ac15334",
       "loc_add": 27360,
       "loc_del": 7014,
       "loc": 20346
@@ -73,9 +73,9 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "9a13eef22080ab74c83296443e84dcf5fe50ced9",
-      "loc_add": 2928,
-      "loc_del": 1580,
+      "headCommit": "f2143ceca4c20f979175596de61efffc3531258f",
+      "loc_add": 2947,
+      "loc_del": 1599,
       "loc": 1348
     },
     "1-2-3-nguoi": {
@@ -85,10 +85,10 @@
       "loc": 7318
     },
     "Ngoc-Can-Granite": {
-      "headCommit": "20ece36f49dbf84f6fda5b76e20e75798cf16197",
-      "loc_add": 7643,
-      "loc_del": 1231,
-      "loc": 6412
+      "headCommit": "59d41341259e4fa395907c126373724039abd9d0",
+      "loc_add": 14791,
+      "loc_del": 2113,
+      "loc": 12678
     }
   }
 }

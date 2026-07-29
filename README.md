@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "You don't get in life what you want; you get in life what you are." - Les Brown](quote.svg?v=1785206638932)
+![Quote of the Day: "The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso](quote.svg?v=1785293460602)
 
 </div>
 
