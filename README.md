@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso](quote.svg?v=1785293460602)
+![Quote of the Day: "There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens](quote.svg?v=1785378953258)
 
 </div>
 
