@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens](quote.svg?v=1785378953258)
+![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1785467817944)
 
 </div>
 
