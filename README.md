@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1785467817944)
+![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1785554118687)
 
 </div>
 
