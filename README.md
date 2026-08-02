@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1785554118687)
+![Quote of the Day: "Debugging is twice as hard as writing the code in the first place." - Brian Kernighan](quote.svg?v=1785640523558)
 
 </div>
 
