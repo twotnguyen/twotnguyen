@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1785727065735)
+![Quote of the Day: "Do not pray for an easy life, pray for the strength to endure a difficult one." - Bruce Lee](quote.svg?v=1785811584792)
 
 </div>
 
