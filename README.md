@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie](quote.svg?v=1785897845367)
+![Quote of the Day: "It's not a bug — it's an undocumented feature." - Anonymous](quote.svg?v=1785984412130)
 
 </div>
 
