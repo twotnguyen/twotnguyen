@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "It's not a bug — it's an undocumented feature." - Anonymous](quote.svg?v=1785984412130)
+![Quote of the Day: "Love is the energy of life." - Robert Browning](quote.svg?v=1786070837392)
 
 </div>
 
