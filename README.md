@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry](quote.svg?v=1786153711963)
+![Quote of the Day: "All has not been said and never will be." - Samuel Beckett](quote.svg?v=1786240548129)
 
 </div>
 
