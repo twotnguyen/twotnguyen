@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "All has not been said and never will be." - Samuel Beckett](quote.svg?v=1786240548129)
+![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1786327231165)
 
 </div>
 
