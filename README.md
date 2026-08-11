@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1786327231165)
+![Quote of the Day: "Java is to JavaScript what car is to carpet." - Chris Heilmann](quote.svg?v=1786413329436)
 
 </div>
 
