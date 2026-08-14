@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The energy of the mind is the essence of life." - Aristotle](quote.svg?v=1786587021475)
+![Quote of the Day: "One of my most productive days was throwing away 1,000 lines of code." - Ken Thompson](quote.svg?v=1786673308682)
 
 </div>
 
