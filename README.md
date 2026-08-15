@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "One of my most productive days was throwing away 1,000 lines of code." - Ken Thompson](quote.svg?v=1786673308682)
+![Quote of the Day: "Don't stop when you're tired. Stop when you're done." - Marilyn Monroe](quote.svg?v=1786756920163)
 
 </div>
 
