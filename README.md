@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Don't stop when you're tired. Stop when you're done." - Marilyn Monroe](quote.svg?v=1786756920163)
+![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1786843620242)
 
 </div>
 
