@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Just living is not enough... one must have sunshine, freedom, and a little flower." - Hans Christian Andersen](quote.svg?v=1786929854243)
+![Quote of the Day: "Elegance does not consist in putting on a new dress." - Coco Chanel](quote.svg?v=1787016055931)
 
 </div>
 
