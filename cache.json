@@ -13,16 +13,16 @@
       "loc": 2284
     },
     "Flutter_Music_App": {
-      "headCommit": "a8aced0da0dfa7f68ce2da92c0f830a2ddb051a6",
+      "headCommit": "0364c6df4add2c97032c529ffa3a69c5450b809d",
       "loc_add": 27360,
       "loc_del": 7014,
       "loc": 20346
     },
     "PowerTech": {
-      "headCommit": "7732c59fe9909991a7d5908406cbe1df946e488f",
-      "loc_add": 166421,
-      "loc_del": 39028,
-      "loc": 127393
+      "headCommit": "e96dd1a1be7ada05dce71db778a703ed0e07a376",
+      "loc_add": 166422,
+      "loc_del": 45144,
+      "loc": 121278
     },
     "SkyO-Coffe": {
       "headCommit": "9a411ce49409f56876596cfe1c78bef22f206087",
@@ -43,9 +43,9 @@
       "loc": 9994
     },
     "staruml-plantuml-importer": {
-      "headCommit": "21c1d3edaad82cc1a7260f2ddd2845284e508a2b",
-      "loc_add": 126089,
-      "loc_del": 103830,
+      "headCommit": "92c2d297562b6cb2b96a801dabbfa591b5e3e863",
+      "loc_add": 122831,
+      "loc_del": 100572,
       "loc": 22259
     },
     "PharmaAssist-Figma-Design": {
@@ -61,10 +61,10 @@
       "loc": 40082
     },
     "goal-track": {
-      "headCommit": "998d6a5dc1a9d7a8dfeaa4649f640be985848381",
-      "loc_add": 18836,
-      "loc_del": 7132,
-      "loc": 11704
+      "headCommit": "5af13372da0cac5127cc182329f575b349e4ac00",
+      "loc_add": 18842,
+      "loc_del": 10401,
+      "loc": 8441
     },
     "agy-skills": {
       "headCommit": "aacf87474b095ea17883ffc8ab123a360d5c4786",
@@ -73,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "9c4f0e0c5371bca9b94c7660f650cf4cb43809b0",
-      "loc_add": 3329,
-      "loc_del": 1975,
-      "loc": 1354
+      "headCommit": "4c9d7d3a2e3b53743ebf1022e83e0badee8113f8",
+      "loc_add": 3353,
+      "loc_del": 1994,
+      "loc": 1359
     },
     "1-2-3-nguoi": {
       "headCommit": "61a91a8371949c7123b969c693b6abaa8741609c",
@@ -97,10 +97,10 @@
       "loc": 5163
     },
     "kill-apps-night": {
-      "headCommit": "9e5b409b9732f4e118839c2fb87dd8e288ca2bdd",
-      "loc_add": 728,
-      "loc_del": 0,
-      "loc": 728
+      "headCommit": "28457d146b92a2d257b8936db1ba04b54ff45334",
+      "loc_add": 1187,
+      "loc_del": 551,
+      "loc": 636
     }
   }
 }

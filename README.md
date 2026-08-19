@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Elegance does not consist in putting on a new dress." - Coco Chanel](quote.svg?v=1787016055931)
+![Quote of the Day: "First, solve the problem. Then, write the code." - John Johnson](quote.svg?v=1787102570302)
 
 </div>
 
