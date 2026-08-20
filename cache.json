@@ -13,7 +13,7 @@
       "loc": 2284
     },
     "Flutter_Music_App": {
-      "headCommit": "0364c6df4add2c97032c529ffa3a69c5450b809d",
+      "headCommit": "0f00dfdae4ad8962b91393bd6f38cd9081d19ced",
       "loc_add": 27360,
       "loc_del": 7014,
       "loc": 20346
@@ -43,9 +43,9 @@
       "loc": 9994
     },
     "staruml-plantuml-importer": {
-      "headCommit": "92c2d297562b6cb2b96a801dabbfa591b5e3e863",
-      "loc_add": 122831,
-      "loc_del": 100572,
+      "headCommit": "760b83303b8747a34e7998ee0a0eb74dc1b0cae0",
+      "loc_add": 122842,
+      "loc_del": 100583,
       "loc": 22259
     },
     "PharmaAssist-Figma-Design": {
@@ -61,9 +61,9 @@
       "loc": 40082
     },
     "goal-track": {
-      "headCommit": "5af13372da0cac5127cc182329f575b349e4ac00",
-      "loc_add": 18842,
-      "loc_del": 10401,
+      "headCommit": "0dc64bb1dea2d4bd8ac8e3f2beddbb0954ebe76b",
+      "loc_add": 18849,
+      "loc_del": 10408,
       "loc": 8441
     },
     "agy-skills": {
@@ -73,9 +73,9 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "4c9d7d3a2e3b53743ebf1022e83e0badee8113f8",
-      "loc_add": 3353,
-      "loc_del": 1994,
+      "headCommit": "3a655121c9e64c7ff11e1b25ac2435fd0d179204",
+      "loc_add": 3382,
+      "loc_del": 2023,
       "loc": 1359
     },
     "1-2-3-nguoi": {
@@ -97,10 +97,10 @@
       "loc": 5163
     },
     "kill-apps-night": {
-      "headCommit": "28457d146b92a2d257b8936db1ba04b54ff45334",
-      "loc_add": 1187,
-      "loc_del": 551,
-      "loc": 636
+      "headCommit": "d033a402973193dd4955477c9ded9fb7e4c4d841",
+      "loc_add": 1287,
+      "loc_del": 788,
+      "loc": 499
     }
   }
 }

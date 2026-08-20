@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "First, solve the problem. Then, write the code." - John Johnson](quote.svg?v=1787102570302)
+![Quote of the Day: "Every day is an opportunity to a make a new happy ending." - Jonathan Swift](quote.svg?v=1787188920228)
 
 </div>
 
