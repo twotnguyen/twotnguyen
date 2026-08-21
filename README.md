@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Every day is an opportunity to a make a new happy ending." - Jonathan Swift](quote.svg?v=1787188920228)
+![Quote of the Day: "Wise men speak because they have something to say; Fools because they have to say something." - Plato](quote.svg?v=1787275566791)
 
 </div>
 
