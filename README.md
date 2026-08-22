@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Wise men speak because they have something to say; Fools because they have to say something." - Plato](quote.svg?v=1787275566791)
+![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1787361664455)
 
 </div>
 
