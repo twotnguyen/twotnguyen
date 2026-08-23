@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1787361664455)
+![Quote of the Day: "Love is the absence of judgment." - Dalai Lama](quote.svg?v=1787448976181)
 
 </div>
 
