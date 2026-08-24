@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Love is the absence of judgment." - Dalai Lama](quote.svg?v=1787448976181)
+![Quote of the Day: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry](quote.svg?v=1787534755490)
 
 </div>
 
