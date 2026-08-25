@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry](quote.svg?v=1787534755490)
+![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1787620997586)
 
 </div>
 
