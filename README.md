@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1787620997586)
+![Quote of the Day: "Good code is its own best documentation." - Steve McConnell](quote.svg?v=1787707581279)
 
 </div>
 

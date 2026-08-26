@@ -26,7 +26,7 @@
   <rect width="600" height="120" class="background"/>
   <rect x="12" y="16" width="4" height="88" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Make it work, make it right, make it fast.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Good code is its own best documentation.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="84" text-anchor="end" class="author-text">- Kent Beck</text>
+  <text x="560" y="84" text-anchor="end" class="author-text">- Steve McConnell</text>
 </svg>

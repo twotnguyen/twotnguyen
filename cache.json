@@ -13,7 +13,7 @@
       "loc": 2284
     },
     "Flutter_Music_App": {
-      "headCommit": "dacf3437e319d8c2f1ae7a8e0f758d63aa97b136",
+      "headCommit": "d3c068beb3d4a71075465bcb26fbc5760fd69be5",
       "loc_add": 27360,
       "loc_del": 7014,
       "loc": 20346
@@ -73,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "70e88221b9b9a349f0db93a9364091e6bc83bdb9",
-      "loc_add": 3473,
-      "loc_del": 2113,
-      "loc": 1360
+      "headCommit": "67341f3d3f591a25a1fc9c4ccfc7431e24c47dea",
+      "loc_add": 3492,
+      "loc_del": 2133,
+      "loc": 1359
     },
     "1-2-3-nguoi": {
       "headCommit": "699090003107d1d1aeb115bef0f50be9fc5e92e4",
