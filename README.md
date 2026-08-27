@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Good code is its own best documentation." - Steve McConnell](quote.svg?v=1787707581279)
+![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1787818459649)
 
 </div>
 
