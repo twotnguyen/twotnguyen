@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1787818459649)
+![Quote of the Day: "The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - Oprah Winfrey](quote.svg?v=1787912214208)
 
 </div>
 
