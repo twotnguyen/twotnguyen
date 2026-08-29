@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - Oprah Winfrey](quote.svg?v=1787912214208)
+![Quote of the Day: "The road to success is always under construction.." - Lily Tomlin](quote.svg?v=1787984165746)
 
 </div>
 
