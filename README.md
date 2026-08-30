@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The road to success is always under construction.." - Lily Tomlin](quote.svg?v=1787984165746)
+![Quote of the Day: "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson](quote.svg?v=1788063928676)
 
 </div>
 
