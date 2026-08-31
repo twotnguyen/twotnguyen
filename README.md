@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson](quote.svg?v=1788063928676)
+![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1788150593985)
 
 </div>
 
