@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1788150593985)
+![Quote of the Day: "Failure is not fatal, but failure to change might be." - John Wooden](quote.svg?v=1788235967805)
 
 </div>
 
