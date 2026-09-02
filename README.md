@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Failure is not fatal, but failure to change might be." - John Wooden](quote.svg?v=1788235967805)
+![Quote of the Day: "Debugging is twice as hard as writing the code in the first place." - Brian Kernighan](quote.svg?v=1788320112340)
 
 </div>
 
