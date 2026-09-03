@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Debugging is twice as hard as writing the code in the first place." - Brian Kernighan](quote.svg?v=1788320112340)
+![Quote of the Day: "Sometimes you have to shut your eyes, so you can see the real beauty." - Kilian Jornet](quote.svg?v=1788406496101)
 
 </div>
 
