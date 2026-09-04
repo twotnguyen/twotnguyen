@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Sometimes you have to shut your eyes, so you can see the real beauty." - Kilian Jornet](quote.svg?v=1788406496101)
+![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1788492902493)
 
 </div>
 
