@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "Make it work, make it right, make it fast." - Kent Beck](quote.svg?v=1788492902493)
+![Quote of the Day: "The best error message is the one that never shows up." - Thomas Fuchs](quote.svg?v=1788579325478)
 
 </div>
 
