@@ -7,10 +7,10 @@
       "loc": 4846
     },
     "love-web": {
-      "headCommit": "b0542cff72dfef766ec404d43062de47b333c207",
-      "loc_add": 2353,
-      "loc_del": 69,
-      "loc": 2284
+      "headCommit": "141d6aff5ce13f7dbda0d7b967bef21555b55b76",
+      "loc_add": 2355,
+      "loc_del": 70,
+      "loc": 2285
     },
     "Flutter_Music_App": {
       "headCommit": "77fce50ce898087085b0a9d1fc56195fef207c57",
@@ -61,10 +61,10 @@
       "loc": 40082
     },
     "goal-track": {
-      "headCommit": "0dc64bb1dea2d4bd8ac8e3f2beddbb0954ebe76b",
-      "loc_add": 18849,
-      "loc_del": 10408,
-      "loc": 8441
+      "headCommit": "9fbc6d75e570e1edc844e4336d8cee8a6909be3b",
+      "loc_add": 18853,
+      "loc_del": 10411,
+      "loc": 8442
     },
     "agy-skills": {
       "headCommit": "aacf87474b095ea17883ffc8ab123a360d5c4786",
@@ -73,9 +73,9 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "53b56966264d81376c2be4c9615e2d328efee874",
-      "loc_add": 3652,
-      "loc_del": 2293,
+      "headCommit": "c9bce446249137f83f3fd187f2cd44c7cae3c123",
+      "loc_add": 3665,
+      "loc_del": 2306,
       "loc": 1359
     },
     "1-2-3-nguoi": {
@@ -91,10 +91,10 @@
       "loc": 12678
     },
     "MCK-HVL": {
-      "headCommit": "9bc2259e85442b1e007f70ef4d372d0021a6b8e5",
-      "loc_add": 11608,
-      "loc_del": 6445,
-      "loc": 5163
+      "headCommit": "d79c4552559d3e600c659053ea1b423f7a4578dc",
+      "loc_add": 13635,
+      "loc_del": 6743,
+      "loc": 6892
     },
     "kill-apps-night": {
       "headCommit": "d033a402973193dd4955477c9ded9fb7e4c4d841",
