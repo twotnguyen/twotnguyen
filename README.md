@@ -121,7 +121,7 @@
 
 ### 💡 Quote of the Day
 
-![Quote of the Day: "The best error message is the one that never shows up." - Thomas Fuchs](quote.svg?v=1788665825802)
+![Quote of the Day: "The function of good software is to make the complex appear to be simple." - Grady Booch](quote.svg?v=1788752201342)
 
 </div>
 
