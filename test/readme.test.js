@@ -29,6 +29,14 @@ test("shows followers, stars, and profile views in the hero", () => {
   assert.match(readme, /komarev\.com\/ghpvc\/\?username=twotnguyen/);
 });
 
+test("places the typing animation directly above the profile badges", () => {
+  const typingIndex = readme.indexOf("readme-typing-svg.demolab.com");
+  const followersIndex = readme.indexOf("img.shields.io/github/followers");
+
+  assert.ok(typingIndex >= 0);
+  assert.ok(typingIndex < followersIndex);
+});
+
 test("puts the greeting before the profile card", () => {
   const greetingIndex = readme.indexOf("# Hi, I'm Twot Nguyen 👋");
   const profileCardIndex = readme.indexOf("<picture>");
@@ -40,7 +48,6 @@ test("puts the greeting before the profile card", () => {
 test("removes redundant and project content", () => {
   for (const removed of [
     "Featured Projects",
-    "Typing SVG",
     "Top Langs",
     "Activity Graph",
     "antigravity-cockpit",
