@@ -23,6 +23,20 @@ test("uses the approved sections", () => {
   assert.match(readme, /github-contribution-grid-snake-dark\.svg/);
 });
 
+test("shows followers, stars, and profile views in the hero", () => {
+  assert.match(readme, /img\.shields\.io\/github\/followers\/twotnguyen/);
+  assert.match(readme, /img\.shields\.io\/github\/stars\/twotnguyen/);
+  assert.match(readme, /komarev\.com\/ghpvc\/\?username=twotnguyen/);
+});
+
+test("puts the greeting before the profile card", () => {
+  const greetingIndex = readme.indexOf("# Hi, I'm Twot Nguyen 👋");
+  const profileCardIndex = readme.indexOf("<picture>");
+
+  assert.ok(greetingIndex >= 0);
+  assert.ok(greetingIndex < profileCardIndex);
+});
+
 test("removes redundant and project content", () => {
   for (const removed of [
     "Featured Projects",

@@ -1,17 +1,21 @@
 <div align="center">
 
+# Hi, I'm Twot Nguyen 👋
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v={CACHE_BUSTER}">
   <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v={CACHE_BUSTER}">
   <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v={CACHE_BUSTER}" width="930">
 </picture>
 
-# Hi, I'm Twot Nguyen 👋
-
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
 systems, and developer automation.
 
 Based in Ho Chi Minh City, Vietnam.
+
+[![GitHub followers](https://img.shields.io/github/followers/twotnguyen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/twotnguyen?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/twotnguyen?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/twotnguyen?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=twotnguyen&style=for-the-badge&color=blueviolet)
 
 </div>
 
