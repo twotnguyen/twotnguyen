@@ -11,8 +11,7 @@ test("keeps the profile README concise", () => {
 
 test("uses the approved sections", () => {
   for (const heading of [
-    "What I work with",
-    "Current focus",
+    "Core stack",
     "Connect",
     "Contributions",
     "Quote of the Day",
@@ -73,6 +72,8 @@ test("removes redundant and project content", () => {
     "Top Langs",
     "Activity Graph",
     "antigravity-cockpit",
+    "Current focus",
+    "What I work with",
   ]) {
     assert.doesNotMatch(readme, new RegExp(removed, "i"));
   }

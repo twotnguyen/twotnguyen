@@ -21,17 +21,10 @@ Based in Ho Chi Minh City, Vietnam.
 
 </div>
 
-## 🧰 What I work with
+## 🧰 Core stack
 
-- **Web:** TypeScript · React · NestJS · PostgreSQL
-- **Systems:** Redis · Docker · BullMQ · GitHub Actions
-- **Also:** Flutter · .NET · Python
-
-## 🎯 Current focus
-
-Building developer tools and automation workflows that make everyday
-development simpler. Ask me about TypeScript, React, NestJS, PostgreSQL,
-and REST APIs.
+- **Primary:** TypeScript · React · NestJS · PostgreSQL · Redis · Docker
+- **Also use:** Flutter · .NET · Python
 
 <div align="center">
 
