@@ -6,11 +6,17 @@ const readme = fs.readFileSync("README.md", "utf8");
 const template = fs.readFileSync("template.md", "utf8");
 
 test("keeps the profile README concise", () => {
-  assert.ok(readme.split("\n").length <= 60);
+  assert.ok(readme.split("\n").length <= 70);
 });
 
 test("uses the approved sections", () => {
-  for (const heading of ["What I work with", "Current focus", "Connect", "Contributions"]) {
+  for (const heading of [
+    "What I work with",
+    "Current focus",
+    "Connect",
+    "Contributions",
+    "Quote of the Day",
+  ]) {
     assert.match(readme, new RegExp(`## .*${heading}`, "i"));
   }
 
@@ -23,11 +29,20 @@ test("removes redundant and project content", () => {
     "Typing SVG",
     "Top Langs",
     "Activity Graph",
-    "Quote of the Day",
     "antigravity-cockpit",
   ]) {
     assert.doesNotMatch(readme, new RegExp(removed, "i"));
   }
+});
+
+test("ends with the daily quote and decorative wave", () => {
+  assert.match(template, /\{QUOTE_HERE\}/);
+  assert.match(readme, /quote\.svg\?v=\d+/);
+  assert.match(readme, /capsule-render\.vercel\.app\/api\?type=waving/);
+
+  const closingContent = readme.match(/<div align="center">([\s\S]+)<\/div>\s*$/);
+  assert.ok(closingContent);
+  assert.match(closingContent[1], /Quote of the Day[\s\S]+capsule-render/);
 });
 
 test("cache-busts every generated profile image", () => {

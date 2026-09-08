@@ -1,4 +1,4 @@
-name: Daily Profile Generator
+name: Daily Quote & Profile Generator
 
 on:
   workflow_dispatch:
@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "twotnguyen"
           git config --global user.email "nguyenngoctinh011258@gmail.com"
-          git add README.md profile_dark.svg profile_light.svg cache.json archive.json
+          git add README.md quote.svg profile_dark.svg profile_light.svg cache.json archive.json
           git commit -m "chore: update daily quote and profile stats" || echo "No changes to commit"
           git push

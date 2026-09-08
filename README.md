@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1788836157623">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1788836157623">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1788836157623" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1788836609973">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1788836609973">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1788836609973" width="930">
 </picture>
 
 # Hi, I'm Twot Nguyen 👋
@@ -44,6 +44,16 @@ and REST APIs.
   <img alt="Twot Nguyen's GitHub contribution snake" src="https://raw.githubusercontent.com/twotnguyen/twotnguyen/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+![Quote of the Day: "Perfection is not attainable, but if we chase perfection we can catch excellence." - Vince Lombardi](quote.svg?v=1788836609973)
+
 _One must imagine a system happy._
+
+<img alt="Decorative gradient wave footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
 
 </div>
