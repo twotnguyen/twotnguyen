@@ -33,12 +33,15 @@ Building developer tools and automation workflows that make everyday
 development simpler. Ask me about TypeScript, React, NestJS, PostgreSQL,
 and REST APIs.
 
+<div align="center">
+
 ## 🤝 Connect
 
-[Email](mailto:nguyenngoctinh011258@gmail.com) ·
-[GitHub](https://github.com/twotnguyen) ·
-[Facebook](https://www.facebook.com/nguyen.tinh.754402) ·
-[Instagram](https://www.instagram.com/ybtwot)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenngoctinh011258@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twotnguyen) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TwotNguyen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-t%C3%ACnh-259208420/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.tinh.754402) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ybtwot) [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0369861439)
+
+</div>
 
 ## 🐍 Contributions
 

@@ -45,6 +45,28 @@ test("puts the greeting before the profile card", () => {
   assert.ok(greetingIndex < profileCardIndex);
 });
 
+test("centers branded contact badges and includes every social link", () => {
+  const connect = readme.match(
+    /<div align="center">\s+## 🤝 Connect([\s\S]+?)<\/div>\s+## 🐍 Contributions/,
+  );
+  assert.ok(connect);
+
+  for (const expected of [
+    "logo=gmail",
+    "logo=github",
+    "logo=facebook",
+    "logo=instagram",
+    "logo=x",
+    "logo=linkedin",
+    "logo=zalo",
+    "https://x.com/TwotNguyen",
+    "https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-t%C3%ACnh-259208420/",
+    "https://zalo.me/0369861439",
+  ]) {
+    assert.ok(connect[1].includes(expected), `missing ${expected}`);
+  }
+});
+
 test("removes redundant and project content", () => {
   for (const removed of [
     "Featured Projects",
