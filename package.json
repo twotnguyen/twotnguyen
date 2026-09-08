@@ -4,6 +4,8 @@
   "description": "Twot Nguyen's Profile README with dynamic quotes and contribution snake",
   "main": "index.js",
   "scripts": {
+    "lint:md": "npx --yes markdownlint-cli2 README.md template.md",
+    "test": "node --test",
     "update-readme": "node index.js"
   },
   "private": true
