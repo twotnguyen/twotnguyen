@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1788836609973">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1788836609973">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1788836609973" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1788838898276">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1788838898276">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1788838898276" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Perfection is not attainable, but if we chase perfection we can catch excellence." - Vince Lombardi](quote.svg?v=1788836609973)
+![Quote of the Day: "The nearer a man comes to a calm mind, the closer he is to strength." - Marcus Aurelius](quote.svg?v=1788838898276)
 
 _One must imagine a system happy._
 
