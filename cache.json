@@ -73,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "8c91056a7e4d4a0e165d83ca502dcc3616a696d6",
-      "loc_add": 4283,
-      "loc_del": 2932,
-      "loc": 1351
+      "headCommit": "c32855d6e6d514fd77626772b036beeed8e420d9",
+      "loc_add": 4301,
+      "loc_del": 2951,
+      "loc": 1350
     },
     "1-2-3-nguoi": {
       "headCommit": "699090003107d1d1aeb115bef0f50be9fc5e92e4",
@@ -125,6 +125,12 @@
       "loc_add": 1512,
       "loc_del": 0,
       "loc": 1512
+    },
+    "OneVoice": {
+      "headCommit": "b0bf93b42e7ad72f2ff4fd80f862c9731df724ac",
+      "loc_add": 74777,
+      "loc_del": 39107,
+      "loc": 35670
     }
   }
 }
