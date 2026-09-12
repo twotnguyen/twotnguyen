@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789098144616">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789098144616">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789098144616" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789184748836">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789184748836">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789184748836" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Talk is cheap. Show me the code." - Linus Torvalds](quote.svg?v=1789098144616)
+![Quote of the Day: "Your chances of success in any undertaking can always be measured by your belief in yourself." - Robert Collier](quote.svg?v=1789184748836)
 
 _One must imagine a system happy._
 
