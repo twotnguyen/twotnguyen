@@ -73,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "50816559da2cca376cc4192f0d7099b179798e89",
-      "loc_add": 4345,
-      "loc_del": 2989,
-      "loc": 1356
+      "headCommit": "70d64e3ba6a226b4738be9c41ae2719e7eada377",
+      "loc_add": 4372,
+      "loc_del": 3009,
+      "loc": 1363
     },
     "1-2-3-nguoi": {
       "headCommit": "699090003107d1d1aeb115bef0f50be9fc5e92e4",
@@ -127,10 +127,10 @@
       "loc": 1512
     },
     "OneVoice": {
-      "headCommit": "497b6a17e017c8f91d174f6a7d13193441996e0d",
-      "loc_add": 112445,
-      "loc_del": 40983,
-      "loc": 71462
+      "headCommit": "60cd6c40f5e4d4e9b4fb872c25f61a7903571dd4",
+      "loc_add": 218835,
+      "loc_del": 45214,
+      "loc": 173621
     },
     "studium-website": {
       "headCommit": "fc141a79ff2512a0160dd8eebcdd079dcbc6e279",
