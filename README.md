@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789444798586">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789444798586">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789444798586" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789531088042">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789531088042">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789531088042" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "The best error message is the one that never shows up." - Thomas Fuchs](quote.svg?v=1789444798586)
+![Quote of the Day: "True ignorance is not the absence of knowledge, it's the refusal to acquire it." - Jeff Booth](quote.svg?v=1789531088042)
 
 _One must imagine a system happy._
 
