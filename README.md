@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789617833073">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789617833073">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789617833073" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789703424027">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789703424027">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789703424027" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Code is like humor. When you have to explain it, it's bad." - Cory House](quote.svg?v=1789617833073)
+![Quote of the Day: "The only way to entertain some folks is to listen to them." - David Brinkley](quote.svg?v=1789703424027)
 
 _One must imagine a system happy._
 
