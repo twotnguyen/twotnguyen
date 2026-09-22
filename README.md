@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1789963245216">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1789963245216">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1789963245216" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790049481197">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790049481197">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790049481197" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Anger exceeding limits causes fear and excessive kindness eliminates respect." - Euripides](quote.svg?v=1789963245216)
+![Quote of the Day: "Real loss is only possible when you love something more than you love yourself." - Robin Williams](quote.svg?v=1790049481197)
 
 _One must imagine a system happy._
 
