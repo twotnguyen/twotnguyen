@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790135738902">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790135738902">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790135738902" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790221718219">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790221718219">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790221718219" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "The person who says something is impossible should not interrupt the person who is doing it." - Chinese Proverb](quote.svg?v=1790135738902)
+![Quote of the Day: "One of my most productive days was throwing away 1,000 lines of code." - Ken Thompson](quote.svg?v=1790221718219)
 
 _One must imagine a system happy._
 
