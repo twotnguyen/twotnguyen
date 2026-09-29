@@ -73,10 +73,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "3923ec95881196e53004090a9b9a8a00aacb0b7f",
-      "loc_add": 4645,
-      "loc_del": 3282,
-      "loc": 1363
+      "headCommit": "3a620468dfd856a4d7fc8cd8ec762c485573d8bc",
+      "loc_add": 4672,
+      "loc_del": 3304,
+      "loc": 1368
     },
     "1-2-3-nguoi": {
       "headCommit": "699090003107d1d1aeb115bef0f50be9fc5e92e4",
@@ -139,10 +139,10 @@
       "loc": 3101
     },
     "XIANGQI": {
-      "headCommit": "c7482c4a82c98e4a2b0343380f0e697e2fe7df5a",
-      "loc_add": 226921,
+      "headCommit": "307a508840c3efd0a299207e015c1dad1e848cee",
+      "loc_add": 248503,
       "loc_del": 57944,
-      "loc": 168977
+      "loc": 190559
     }
   }
 }
