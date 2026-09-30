@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790657686042">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790657686042">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790657686042" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790743258165">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790743258165">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790743258165" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -52,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month." - Theodore Roosevelt](quote.svg?v=1790657686042)
+![Quote of the Day: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson](quote.svg?v=1790743258165)
 
 _One must imagine a system happy._
 
