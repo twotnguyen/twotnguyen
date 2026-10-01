@@ -21,11 +21,6 @@ Based in Ho Chi Minh City, Vietnam.
 
 </div>
 
-## 🧰 Core stack
-
-- **Primary:** TypeScript · React · NestJS · PostgreSQL · Redis · Docker
-- **Also use:** Flutter · .NET · Python
-
 <div align="center">
 
 ## 🤝 Connect
