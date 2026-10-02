@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790830387767">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790830387767">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790830387767" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1790916230874">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1790916230874">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1790916230874" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -20,6 +20,11 @@ Based in Ho Chi Minh City, Vietnam.
 ![Profile Views](https://komarev.com/ghpvc/?username=twotnguyen&style=for-the-badge&color=blueviolet)
 
 </div>
+
+## 🧰 Core stack
+
+- **Primary:** TypeScript · React · NestJS · PostgreSQL · Redis · Docker
+- **Also use:** Flutter · .NET · Python
 
 <div align="center">
 
@@ -47,7 +52,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "20 percent of your activities will account for 80 percent of your results." - Brian Tracy](quote.svg?v=1790830387767)
+![Quote of the Day: "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us." - Socrates](quote.svg?v=1790916230874)
 
 _One must imagine a system happy._
 
