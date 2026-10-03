@@ -26,8 +26,8 @@
   <rect width="600" height="144" class="background"/>
   <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>True wisdom comes to each of us when we realize how little we</text>
-  <text x="45" y="72" class="quote-text">understand about life, ourselves, and the world around us.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Study logic and math, because once you&apos;ve mastered them, you</text>
+  <text x="45" y="72" class="quote-text">won&apos;t fear any book.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="108" text-anchor="end" class="author-text">- Socrates</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Naval Ravikant</text>
 </svg>
