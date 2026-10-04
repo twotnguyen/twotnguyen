@@ -11,7 +11,6 @@ test("keeps the profile README concise", () => {
 
 test("uses the approved sections", () => {
   for (const heading of [
-    "Core stack",
     "Connect",
     "Contributions",
     "Quote of the Day",
@@ -68,6 +67,7 @@ test("centers branded contact badges and includes every social link", () => {
 
 test("removes redundant and project content", () => {
   for (const removed of [
+    "Core stack",
     "Featured Projects",
     "Top Langs",
     "Activity Graph",
