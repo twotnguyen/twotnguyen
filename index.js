@@ -1,5 +1,8 @@
 const fs = require("fs");
 const https = require("https");
+const { execSync } = require("child_process");
+const path = require("path");
+const os = require("os");
 
 // Curated programming quotes (used 50% of the time for variety, or as fallback)
 const programmingQuotes = [
@@ -201,6 +204,93 @@ const IGNORED_REPOS = [
   "pharmaassist-data-collector",
 ];
 
+const isExcludedFile = (filePath) => {
+  const normalized = filePath.toLowerCase().replace(/\\/g, "/");
+  const basename = normalized.split("/").pop();
+
+  // 1. Markdown files
+  if (normalized.endsWith(".md") || normalized.endsWith(".markdown")) return true;
+
+  // 2. Text / license files
+  if (
+    normalized.endsWith(".txt") ||
+    basename === "license" ||
+    basename.startsWith("license.") ||
+    basename === "copying" ||
+    basename.startsWith("copying.")
+  ) {
+    return true;
+  }
+
+  // 3. Package manager lockfiles
+  const lockfiles = new Set([
+    "package-lock.json",
+    "yarn.lock",
+    "pnpm-lock.yaml",
+    "composer.lock",
+    "cargo.lock",
+    "gemfile.lock",
+    "poetry.lock",
+    "podfile.lock",
+    "flake.lock",
+    "bun.lockb",
+    "bun.lock",
+  ]);
+  if (lockfiles.has(basename)) return true;
+
+  return false;
+};
+
+const calculateLocFromGit = (repoPath) => {
+  const cmd = `git -C "${repoPath}" log --author="twot" --author="nguyenngoctinh011258@gmail.com" --numstat --format=""`;
+  const stdout = execSync(cmd, {
+    encoding: "utf8",
+    maxBuffer: 64 * 1024 * 1024,
+  });
+  let add = 0;
+  let rem = 0;
+  for (const line of stdout.split("\n")) {
+    const parts = line.trim().split("\t");
+    if (parts.length >= 3) {
+      const [addStr, remStr, filePath] = parts;
+      if (addStr === "-" || remStr === "-") continue;
+      if (isExcludedFile(filePath)) continue;
+      add += parseInt(addStr, 10) || 0;
+      rem += parseInt(remStr, 10) || 0;
+    }
+  }
+  return { loc_add: add, loc_del: rem, loc: add - rem };
+};
+
+const getRepoLoc = async (name) => {
+  if (name === "twotnguyen" && fs.existsSync(".git")) {
+    return calculateLocFromGit(".");
+  }
+
+  const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), `loc-${name}-`));
+  try {
+    const authPrefix = TOKEN
+      ? `https://x-access-token:${TOKEN}@github.com/`
+      : "https://github.com/";
+    const cloneUrl = `${authPrefix}twotnguyen/${name}.git`;
+    console.log(`[CLONE] Bare cloning ${name} (blobless) to inspect commits...`);
+    execSync(
+      `git -c gc.auto=0 clone --bare --filter=blob:none --quiet "${cloneUrl}" "${tmpDir}"`,
+      {
+        stdio: "pipe",
+        timeout: 30000,
+      },
+    );
+    return calculateLocFromGit(tmpDir);
+  } finally {
+    try {
+      fs.rmSync(tmpDir, { recursive: true, force: true });
+    } catch {
+      // Ignore cleanup error
+    }
+  }
+};
+
 const getLoc = async (reposList, userId, cache) => {
   let add = 0;
   let rem = 0;
@@ -215,11 +305,12 @@ const getLoc = async (reposList, userId, cache) => {
     const ref = repo.defaultBranchRef;
     const currentOid = ref ? ref.target.oid : null;
 
-    // Check cache
+    // Check cache (must match headCommit AND have filtered flag)
     if (
       currentOid &&
       cache.repos[name] &&
-      cache.repos[name].headCommit === currentOid
+      cache.repos[name].headCommit === currentOid &&
+      cache.repos[name].filtered === true
     ) {
       const cached = cache.repos[name];
       add += cached.loc_add;
@@ -231,57 +322,73 @@ const getLoc = async (reposList, userId, cache) => {
     }
 
     if (!ref) {
-      cache.repos[name] = { headCommit: null, loc_add: 0, loc_del: 0, loc: 0 };
+      cache.repos[name] = { headCommit: null, loc_add: 0, loc_del: 0, loc: 0, filtered: true };
       continue;
     }
 
-    let repoAdd = 0;
-    let repoRem = 0;
-    let cursor = null;
-    let pages = 0;
-    console.log(`[START] Calculating LOC for repo: ${name}`);
+    console.log(`[START] Calculating LOC for repo: ${name} (excluding .md, .txt, lockfiles)`);
     try {
-      while (true) {
-        pages++;
-        const res = await graphql(LOC_QUERY, {
-          owner: "twotnguyen",
-          name,
-          id: userId,
-          cursor,
-        });
-        const historyRef = res.repository
-          ? res.repository.defaultBranchRef
-          : null;
-        if (!historyRef) break;
-        const h = historyRef.target.history;
-        for (const n of h.nodes) {
-          repoAdd += n.additions;
-          repoRem += n.deletions;
-        }
-        if (!h.pageInfo.hasNextPage) break;
-        cursor = h.pageInfo.endCursor;
-      }
+      const locData = await getRepoLoc(name);
       console.log(
-        `[DONE] ${name}: +${repoAdd} -${repoRem} (${repoAdd - repoRem} LOC, ${pages} pages)`,
+        `[DONE] ${name}: +${locData.loc_add} -${locData.loc_del} (${locData.loc} LOC)`,
       );
       cache.repos[name] = {
         headCommit: currentOid,
-        loc_add: repoAdd,
-        loc_del: repoRem,
-        loc: repoAdd - repoRem,
+        loc_add: locData.loc_add,
+        loc_del: locData.loc_del,
+        loc: locData.loc,
+        filtered: true,
       };
-      add += repoAdd;
-      rem += repoRem;
+      add += locData.loc_add;
+      rem += locData.loc_del;
     } catch (e) {
-      console.error(`⚠️ Error calculating LOC for repo ${name}:`, e.message);
-      // Fallback: if cached data exists, use it so we don't drop to 0 on network error
+      console.error(`⚠️ Error calculating filtered LOC for repo ${name}:`, e.message);
+      // Fallback 1: if cached data exists, use it
       if (cache.repos[name]) {
         const cached = cache.repos[name];
         add += cached.loc_add;
         rem += cached.loc_del;
         console.log(
-          `⚠️ Failed to fetch, using cached fallback LOC for ${name}: +${cached.loc_add} -${cached.loc_del}`,
+          `⚠️ Failed to fetch git log, using cached fallback LOC for ${name}: +${cached.loc_add} -${cached.loc_del}`,
         );
+      } else {
+        // Fallback 2: GraphQL query if no cache exists
+        console.log(`⚠️ Falling back to GraphQL LOC query for ${name}...`);
+        try {
+          let repoAdd = 0;
+          let repoRem = 0;
+          let cursor = null;
+          while (true) {
+            const res = await graphql(LOC_QUERY, {
+              owner: "twotnguyen",
+              name,
+              id: userId,
+              cursor,
+            });
+            const historyRef = res.repository
+              ? res.repository.defaultBranchRef
+              : null;
+            if (!historyRef) break;
+            const h = historyRef.target.history;
+            for (const n of h.nodes) {
+              repoAdd += n.additions;
+              repoRem += n.deletions;
+            }
+            if (!h.pageInfo.hasNextPage) break;
+            cursor = h.pageInfo.endCursor;
+          }
+          cache.repos[name] = {
+            headCommit: currentOid,
+            loc_add: repoAdd,
+            loc_del: repoRem,
+            loc: repoAdd - repoRem,
+            filtered: false,
+          };
+          add += repoAdd;
+          rem += repoRem;
+        } catch (gqlErr) {
+          console.error(`⚠️ GraphQL fallback also failed for ${name}:`, gqlErr.message);
+        }
       }
     }
   }
@@ -773,4 +880,13 @@ const main = async () => {
   console.log(`📝 Selected Quote: "${quote.text}" — ${quote.author}`);
 };
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = {
+  isExcludedFile,
+  calculateLocFromGit,
+  getRepoLoc,
+  getLoc,
+};

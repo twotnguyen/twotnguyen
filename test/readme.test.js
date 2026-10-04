@@ -104,3 +104,15 @@ test("gives every HTML image useful alternative text", () => {
     assert.match(image, /\balt="[^"]+"/);
   }
 });
+test("excludes markdown, text, and lockfiles from LOC calculation", () => {
+  const { isExcludedFile } = require("../index.js");
+  assert.equal(isExcludedFile("README.md"), true);
+  assert.equal(isExcludedFile("docs/guide.markdown"), true);
+  assert.equal(isExcludedFile("LICENSE"), true);
+  assert.equal(isExcludedFile("notes.txt"), true);
+  assert.equal(isExcludedFile("package-lock.json"), true);
+  assert.equal(isExcludedFile("yarn.lock"), true);
+  assert.equal(isExcludedFile("pnpm-lock.yaml"), true);
+  assert.equal(isExcludedFile("src/index.ts"), false);
+  assert.equal(isExcludedFile("main.py"), false);
+});
