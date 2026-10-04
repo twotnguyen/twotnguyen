@@ -8,33 +8,38 @@
     },
     "love-web": {
       "headCommit": "141d6aff5ce13f7dbda0d7b967bef21555b55b76",
-      "loc_add": 2355,
+      "loc_add": 2354,
       "loc_del": 70,
-      "loc": 2285
+      "loc": 2284,
+      "filtered": true
     },
     "Flutter_Music_App": {
       "headCommit": "77fce50ce898087085b0a9d1fc56195fef207c57",
-      "loc_add": 27364,
-      "loc_del": 7018,
-      "loc": 20346
+      "loc_add": 25484,
+      "loc_del": 6994,
+      "loc": 18490,
+      "filtered": true
     },
     "PowerTech": {
       "headCommit": "e96dd1a1be7ada05dce71db778a703ed0e07a376",
-      "loc_add": 166422,
-      "loc_del": 45144,
-      "loc": 121278
+      "loc_add": 158394,
+      "loc_del": 39579,
+      "loc": 118815,
+      "filtered": true
     },
     "SkyO-Coffe": {
       "headCommit": "9a411ce49409f56876596cfe1c78bef22f206087",
       "loc_add": 1586,
       "loc_del": 501,
-      "loc": 1085
+      "loc": 1085,
+      "filtered": true
     },
     "COS340-open-source-software-development": {
       "headCommit": "d7678053d04fe896f11dbac25f77c329f0a12fe2",
-      "loc_add": 35246,
-      "loc_del": 21731,
-      "loc": 13515
+      "loc_add": 14532,
+      "loc_del": 5278,
+      "loc": 9254,
+      "filtered": true
     },
     "my-agent-skills": {
       "headCommit": "4eb72beaa4f65d0a4b5f515ee3f208ba5a9e67fa",
@@ -44,27 +49,31 @@
     },
     "staruml-plantuml-importer": {
       "headCommit": "760b83303b8747a34e7998ee0a0eb74dc1b0cae0",
-      "loc_add": 122842,
-      "loc_del": 100583,
-      "loc": 22259
+      "loc_add": 110394,
+      "loc_del": 94184,
+      "loc": 16210,
+      "filtered": true
     },
     "PharmaAssist-Figma-Design": {
       "headCommit": "23405a1bb5d4ef07585339a593c8a6b4740b93e6",
-      "loc_add": 49600,
-      "loc_del": 1596,
-      "loc": 48004
+      "loc_add": 19640,
+      "loc_del": 1589,
+      "loc": 18051,
+      "filtered": true
     },
     "AG-quota-manager": {
       "headCommit": "f2b42e5790160b40f9c28638367ed68bd20fcb49",
-      "loc_add": 129543,
-      "loc_del": 89461,
-      "loc": 40082
+      "loc_add": 41672,
+      "loc_del": 8970,
+      "loc": 32702,
+      "filtered": true
     },
     "goal-track": {
       "headCommit": "9fbc6d75e570e1edc844e4336d8cee8a6909be3b",
-      "loc_add": 18853,
-      "loc_del": 10411,
-      "loc": 8442
+      "loc_add": 11384,
+      "loc_del": 6870,
+      "loc": 4514,
+      "filtered": true
     },
     "agy-skills": {
       "headCommit": "aacf87474b095ea17883ffc8ab123a360d5c4786",
@@ -73,28 +82,32 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "32e3e61f8935a492daad8dbc8cb4f4322eb5c355",
-      "loc_add": 4785,
-      "loc_del": 3410,
-      "loc": 1375
+      "headCommit": "0c95e10035b57663e6e9348ed87fab8b9f70ea79",
+      "loc_add": 1381,
+      "loc_del": 0,
+      "loc": 1381,
+      "filtered": true
     },
     "1-2-3-nguoi": {
       "headCommit": "699090003107d1d1aeb115bef0f50be9fc5e92e4",
-      "loc_add": 9460,
-      "loc_del": 2142,
-      "loc": 7318
+      "loc_add": 5458,
+      "loc_del": 1316,
+      "loc": 4142,
+      "filtered": true
     },
     "Ngoc-Can-Granite": {
       "headCommit": "59d41341259e4fa395907c126373724039abd9d0",
-      "loc_add": 14791,
-      "loc_del": 2113,
-      "loc": 12678
+      "loc_add": 6087,
+      "loc_del": 1698,
+      "loc": 4389,
+      "filtered": true
     },
     "MCK-HVL": {
       "headCommit": "d79c4552559d3e600c659053ea1b423f7a4578dc",
-      "loc_add": 13635,
-      "loc_del": 6743,
-      "loc": 6892
+      "loc_add": 9243,
+      "loc_del": 3391,
+      "loc": 5852,
+      "filtered": true
     },
     "kill-apps-night": {
       "headCommit": "9eca80a2cddfe8a327e2e613c67b1bc86d8666f5",
@@ -122,33 +135,38 @@
     },
     "birthday-bao": {
       "headCommit": "07cd562118efd2f5c955686bed07e355e9faf159",
-      "loc_add": 1512,
+      "loc_add": 1431,
       "loc_del": 0,
-      "loc": 1512
+      "loc": 1431,
+      "filtered": true
     },
     "OneVoice": {
       "headCommit": "60cd6c40f5e4d4e9b4fb872c25f61a7903571dd4",
-      "loc_add": 218835,
-      "loc_del": 45214,
-      "loc": 173621
+      "loc_add": 77831,
+      "loc_del": 10174,
+      "loc": 67657,
+      "filtered": true
     },
     "studium-website": {
       "headCommit": "fc141a79ff2512a0160dd8eebcdd079dcbc6e279",
-      "loc_add": 3119,
+      "loc_add": 3081,
       "loc_del": 18,
-      "loc": 3101
+      "loc": 3063,
+      "filtered": true
     },
     "XIANGQI": {
       "headCommit": "ea67b95ac2399ee2da059d190c7fc99ce14a8875",
-      "loc_add": 318323,
-      "loc_del": 315484,
-      "loc": 2839
+      "loc_add": 61680,
+      "loc_del": 17368,
+      "loc": 44312,
+      "filtered": true
     },
     "23DTHD6_DemoBanCo": {
       "headCommit": "d9f7687ab2ff3135f4ce7b1d53ac90639115eab0",
-      "loc_add": 76848,
+      "loc_add": 76583,
       "loc_del": 0,
-      "loc": 76848
+      "loc": 76583,
+      "filtered": true
     }
   }
 }
