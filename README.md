@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791175470533">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791175470533">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791175470533" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791264660932">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791264660932">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791264660932" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Debugging is twice as hard as writing the code in the first place." - Brian Kernighan](quote.svg?v=1791175470533)
+![Quote of the Day: "Great minds are always feared by lesser minds." - Dan Brown](quote.svg?v=1791264660932)
 
 _One must imagine a system happy._
 
