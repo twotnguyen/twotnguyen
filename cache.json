@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "dfe3343fc427eba6020cd52ad7ccfdf66bc63ea0",
-      "loc_add": 1399,
+      "headCommit": "90f4382ea321baf4a17dcf4622514cc6c6445006",
+      "loc_add": 1400,
       "loc_del": 0,
-      "loc": 1399,
+      "loc": 1400,
       "filtered": true
     },
     "1-2-3-nguoi": {
