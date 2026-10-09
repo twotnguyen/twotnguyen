@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791436263244">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791436263244">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791436263244" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791522832682">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791522832682">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791522832682" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Great loves too must be endured." - Coco Chanel](quote.svg?v=1791436263244)
+![Quote of the Day: "There is no value in anything until it is finished." - Genghis Khan](quote.svg?v=1791522832682)
 
 _One must imagine a system happy._
 
