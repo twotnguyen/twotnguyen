@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791694047105">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791694047105">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791694047105" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791781426155">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791781426155">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791781426155" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson](quote.svg?v=1791694047105)
+![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1791781426155)
 
 _One must imagine a system happy._
 
