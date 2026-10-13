@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791781426155">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791781426155">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791781426155" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1791871342004">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1791871342004">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1791871342004" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra](quote.svg?v=1791781426155)
+![Quote of the Day: "The function of good software is to make the complex appear to be simple." - Grady Booch](quote.svg?v=1791871342004)
 
 _One must imagine a system happy._
 
