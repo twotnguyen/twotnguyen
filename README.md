@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792036148816">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792036148816">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792036148816" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792122283536">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792122283536">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792122283536" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "He who knows, does not speak. He who speaks, does not know." - Lao Tzu](quote.svg?v=1792036148816)
+![Quote of the Day: "Simplicity is the soul of efficiency." - Austin Freeman](quote.svg?v=1792122283536)
 
 _One must imagine a system happy._
 

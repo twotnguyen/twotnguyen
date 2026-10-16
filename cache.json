@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "ac0bae896640c9cdcdf586a69878caa7c6a5c11b",
-      "loc_add": 1400,
+      "headCommit": "4e4b8f7672adc6e0676cf44cec33f5348fe3a0f0",
+      "loc_add": 1399,
       "loc_del": 0,
-      "loc": 1400,
+      "loc": 1399,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -155,10 +155,10 @@
       "filtered": true
     },
     "XIANGQI": {
-      "headCommit": "551c8e7ff06bcb6c45e02e72c7b6bdec83a6630e",
-      "loc_add": 459323,
-      "loc_del": 328415,
-      "loc": 130908,
+      "headCommit": "028fa4b2be16bd80e251eb7b2316b32698519c99",
+      "loc_add": 462833,
+      "loc_del": 329133,
+      "loc": 133700,
       "filtered": true
     },
     "23DTHD6_DemoBanCo": {

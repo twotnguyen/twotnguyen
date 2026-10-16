@@ -26,7 +26,7 @@
   <rect width="600" height="120" class="background"/>
   <rect x="12" y="16" width="4" height="88" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>He who knows, does not speak. He who speaks, does not know.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Simplicity is the soul of efficiency.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="84" text-anchor="end" class="author-text">- Lao Tzu</text>
+  <text x="560" y="84" text-anchor="end" class="author-text">- Austin Freeman</text>
 </svg>
