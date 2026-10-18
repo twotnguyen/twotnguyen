@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792208032667">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792208032667">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792208032667" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792294877299">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792294877299">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792294877299" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry](quote.svg?v=1792208032667)
+![Quote of the Day: "Don't risk what is important to you, to get what is not important to you." - Warren Buffett](quote.svg?v=1792294877299)
 
 _One must imagine a system happy._
 

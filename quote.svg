@@ -26,8 +26,8 @@
   <rect width="600" height="144" class="background"/>
   <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Perfection is achieved not when there is nothing more to add,</text>
-  <text x="45" y="72" class="quote-text">but when there is nothing left to take away.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Don&apos;t risk what is important to you, to get what is not</text>
+  <text x="45" y="72" class="quote-text">important to you.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="108" text-anchor="end" class="author-text">- Antoine de Saint-Exupéry</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Warren Buffett</text>
 </svg>
