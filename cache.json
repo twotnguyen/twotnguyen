@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "fd5b4d335a6eb14bf38536fb45b66b6c738440d6",
-      "loc_add": 1400,
+      "headCommit": "4f8bd0ac32de5afa34e3142c80f99ff12291f256",
+      "loc_add": 1399,
       "loc_del": 0,
-      "loc": 1400,
+      "loc": 1399,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -155,7 +155,7 @@
       "filtered": true
     },
     "XIANGQI": {
-      "headCommit": "05d7fd9ab6bb68c9a992f4058fd69967daf453f7",
+      "headCommit": "1bb07ed89ffc58312ecdf8c456dbf5f43dabaa84",
       "loc_add": 468286,
       "loc_del": 331413,
       "loc": 136873,
