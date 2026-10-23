@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792641052193">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792641052193">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792641052193" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792727687294">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792727687294">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792727687294" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything." - Sydney Smith](quote.svg?v=1792641052193)
+![Quote of the Day: "One of my most productive days was throwing away 1,000 lines of code." - Ken Thompson](quote.svg?v=1792727687294)
 
 _One must imagine a system happy._
 
