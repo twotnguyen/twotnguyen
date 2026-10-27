@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1792986829760">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1792986829760">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1792986829760" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1793074512976">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1793074512976">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1793074512976" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "There are no limitations to the mind except those we acknowledge..." - Napoleon Hill](quote.svg?v=1792986829760)
+![Quote of the Day: "Java is to JavaScript what car is to carpet." - Chris Heilmann](quote.svg?v=1793074512976)
 
 _One must imagine a system happy._
 
