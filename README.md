@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1793162698602">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1793162698602">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1793162698602" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1793249728814">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1793249728814">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1793249728814" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "How people treat you is their karma; how you react is yours." - Wayne Dyer](quote.svg?v=1793162698602)
+![Quote of the Day: "One of my most productive days was throwing away 1,000 lines of code." - Ken Thompson](quote.svg?v=1793249728814)
 
 _One must imagine a system happy._
 
