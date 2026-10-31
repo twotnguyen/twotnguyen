@@ -82,7 +82,7 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "ff71ae4f101df65d6f63d24fb5e339a5e004cfa7",
+      "headCommit": "db4df4c21254a5cb7dd7df57cfc3e2f291c61806",
       "loc_add": 1414,
       "loc_del": 0,
       "loc": 1414,
@@ -155,10 +155,10 @@
       "filtered": true
     },
     "XIANGQI": {
-      "headCommit": "923bd9752880caf6e7b7652b96165c30102d6baa",
-      "loc_add": 508733,
-      "loc_del": 347193,
-      "loc": 161540,
+      "headCommit": "8c1c4166c0b7b82c3ff0e476b314666f2ab431b6",
+      "loc_add": 527419,
+      "loc_del": 352277,
+      "loc": 175142,
       "filtered": true
     },
     "23DTHD6_DemoBanCo": {
@@ -176,10 +176,10 @@
       "filtered": true
     },
     "kiwi-do-zespri-survey": {
-      "headCommit": "4f294894bc73a1d4e79109f57018e56d26abb89e",
-      "loc_add": 1552,
-      "loc_del": 6,
-      "loc": 1546,
+      "headCommit": "f78d657616d1afa25ee5b6877895e713716c1628",
+      "loc_add": 2505,
+      "loc_del": 908,
+      "loc": 1597,
       "filtered": true
     }
   }

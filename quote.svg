@@ -26,8 +26,8 @@
   <rect width="600" height="144" class="background"/>
   <rect x="12" y="16" width="4" height="112" class="accent-bar"/>
   <g>
-    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>Sometimes you will never know the value of something, until it</text>
-  <text x="45" y="72" class="quote-text">becomes a memory.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
+    <text x="45" y="48" class="quote-text"><tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">“</tspan>It&apos;s easy to be a critic, but being a doer requires effort,</text>
+  <text x="45" y="72" class="quote-text">risk, and change.<tspan fill="#cba6f7" font-family="Georgia, serif" font-size="20px" font-weight="bold">”</tspan></text>
   </g>
-  <text x="560" y="108" text-anchor="end" class="author-text">- Dr. Seuss</text>
+  <text x="560" y="108" text-anchor="end" class="author-text">- Wayne Dyer</text>
 </svg>
