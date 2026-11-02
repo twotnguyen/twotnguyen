@@ -82,7 +82,7 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "cba5ad3d988a4c8cccc34a5ab38a35a585f46eb4",
+      "headCommit": "09a041600f673914aad69afc1d54674381842e36",
       "loc_add": 1414,
       "loc_del": 0,
       "loc": 1414,
@@ -155,10 +155,10 @@
       "filtered": true
     },
     "XIANGQI": {
-      "headCommit": "99be105357a0924c67a9dcc6df42635c1be031b0",
-      "loc_add": 537608,
-      "loc_del": 353761,
-      "loc": 183847,
+      "headCommit": "81e388818396272936d99a859df87d170a50162b",
+      "loc_add": 549146,
+      "loc_del": 356026,
+      "loc": 193120,
       "filtered": true
     },
     "23DTHD6_DemoBanCo": {
@@ -180,6 +180,13 @@
       "loc_add": 2505,
       "loc_del": 908,
       "loc": 1597,
+      "filtered": true
+    },
+    "CSDL-NC-PowerTech": {
+      "headCommit": "596dfb716031ef8bf2a8c0d8332b23498424d8f6",
+      "loc_add": 75050,
+      "loc_del": 898,
+      "loc": 74152,
       "filtered": true
     }
   }
