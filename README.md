@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1793857517418">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1793857517418">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1793857517418" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1793943735924">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1793943735924">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1793943735924" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control." - Epictetus](quote.svg?v=1793857517418)
+![Quote of the Day: "The function of good software is to make the complex appear to be simple." - Grady Booch](quote.svg?v=1793943735924)
 
 _One must imagine a system happy._
 
