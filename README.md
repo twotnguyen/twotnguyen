@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1794028372596">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1794028372596">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1794028372596" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1794114450592">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1794114450592">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1794114450592" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Everyone wants to go to Heaven, but no one wants to die." - Robert Kiyosaki](quote.svg?v=1794028372596)
+![Quote of the Day: "Everyone must choose one of two pains: The pain of discipline or the pain of regret." - Jim Rohn](quote.svg?v=1794114450592)
 
 _One must imagine a system happy._
 
