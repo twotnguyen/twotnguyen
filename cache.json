@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "c5d47135ba0752175d67b20b72d67bbbb1457ecd",
-      "loc_add": 1421,
+      "headCommit": "2e3cb683e20349b7196142a0bb45e48fb26e9fe9",
+      "loc_add": 1420,
       "loc_del": 0,
-      "loc": 1421,
+      "loc": 1420,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -187,6 +187,13 @@
       "loc_add": 75050,
       "loc_del": 898,
       "loc": 74152,
+      "filtered": true
+    },
+    "poseclub-studio-photobooth": {
+      "headCommit": "31a8ccecaf385d4958de9e4b5b77f90bdb85ea94",
+      "loc_add": 7377,
+      "loc_del": 825,
+      "loc": 6552,
       "filtered": true
     }
   }
