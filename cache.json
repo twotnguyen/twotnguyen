@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "6f6907c408d8e76bcdc2ab5f5192b759c7b119a6",
-      "loc_add": 1427,
+      "headCommit": "f1d1006941160b27934623bc5fae0e368607989f",
+      "loc_add": 1428,
       "loc_del": 0,
-      "loc": 1427,
+      "loc": 1428,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -194,6 +194,13 @@
       "loc_add": 7818,
       "loc_del": 1106,
       "loc": 6712,
+      "filtered": true
+    },
+    "hutech-graphic-design-survey": {
+      "headCommit": "e5d2b858e401a622fd9751d93b98d5d53c1d0e0b",
+      "loc_add": 7377,
+      "loc_del": 35,
+      "loc": 7342,
       "filtered": true
     }
   }
