@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "680443bdc57736e16e7a3a9f33c6667670a2dc53",
-      "loc_add": 1435,
+      "headCommit": "87497588fb2ec92a78fe37fc6512a09f8a7076f7",
+      "loc_add": 1434,
       "loc_del": 0,
-      "loc": 1435,
+      "loc": 1434,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -190,10 +190,10 @@
       "filtered": true
     },
     "poseclub-studio-photobooth": {
-      "headCommit": "7c7afb8ddb9941919a9a738ce753bd27accf2d3c",
-      "loc_add": 9427,
-      "loc_del": 1113,
-      "loc": 8314,
+      "headCommit": "94d7818e6cd64bdff054e266f06cde2a565ec92f",
+      "loc_add": 9791,
+      "loc_del": 2865,
+      "loc": 6926,
       "filtered": true
     },
     "hutech-graphic-design-survey": {
