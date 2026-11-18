@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1794899257440">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1794899257440">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1794899257440" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1794983533490">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1794983533490">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1794983533490" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "I cannot make my days longer so I strive to make them better." - Henry David Thoreau](quote.svg?v=1794899257440)
+![Quote of the Day: "When it comes to mastering a skill, time is the magic ingredient." - Robert Greene](quote.svg?v=1794983533490)
 
 _One must imagine a system happy._
 
