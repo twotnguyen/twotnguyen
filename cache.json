@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "3d95f5a4674ed395e77c621e09b4e705fd55ef3b",
-      "loc_add": 1441,
+      "headCommit": "a40ac9bb90965f116fdea19db6d5f4189107e259",
+      "loc_add": 1449,
       "loc_del": 0,
-      "loc": 1441,
+      "loc": 1449,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -190,10 +190,10 @@
       "filtered": true
     },
     "poseclub-studio-photobooth": {
-      "headCommit": "79a5e44f663d51b593d5eebafd500d541cb05074",
-      "loc_add": 14520,
-      "loc_del": 3956,
-      "loc": 10564,
+      "headCommit": "842b051d0eef4f72c791106a929888c6eaca8cb3",
+      "loc_add": 16112,
+      "loc_del": 5810,
+      "loc": 10302,
       "filtered": true
     },
     "hutech-graphic-design-survey": {
@@ -204,10 +204,10 @@
       "filtered": true
     },
     "nexgraph": {
-      "headCommit": "ee86070086f93d26b8cb124f94907ec0e72c7118",
-      "loc_add": 269913,
-      "loc_del": 3414,
-      "loc": 266499,
+      "headCommit": "2576a0578e49ca3aaad666d97b1b58f8b470690f",
+      "loc_add": 344448,
+      "loc_del": 6839,
+      "loc": 337609,
       "filtered": true
     },
     "periodic-table-3d": {

@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1795155668238">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1795155668238">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1795155668238" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1795241482274">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1795241482274">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1795241482274" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson](quote.svg?v=1795155668238)
+![Quote of the Day: "A dream you dream alone is only a dream. A dream you dream together is reality." - Yoko Ono](quote.svg?v=1795241482274)
 
 _One must imagine a system happy._
 
