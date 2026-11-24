@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1795415538449">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1795415538449">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1795415538449" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1795510826744">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1795510826744">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1795510826744" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Watch your thoughts, they become words; watch your words, they become actions;" - Jeff Booth](quote.svg?v=1795415538449)
+![Quote of the Day: "If you want to keep your memories, you first have to live them." - Bob Dylan](quote.svg?v=1795510826744)
 
 _One must imagine a system happy._
 
