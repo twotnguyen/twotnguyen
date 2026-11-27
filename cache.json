@@ -82,7 +82,7 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "1243d3473c8bd181cfb99bdd15e7fe6457ecab62",
+      "headCommit": "f5d2cfbf5279a32aee70d0faa2448d240e8014ff",
       "loc_add": 1455,
       "loc_del": 0,
       "loc": 1455,
@@ -204,10 +204,10 @@
       "filtered": true
     },
     "nexgraph": {
-      "headCommit": "a1141001c7482aa9f5c234177906c06af49d2dc3",
-      "loc_add": 401916,
-      "loc_del": 13567,
-      "loc": 388349,
+      "headCommit": "85b888069ae8e1847114670836683e0c17f08a32",
+      "loc_add": 430700,
+      "loc_del": 18972,
+      "loc": 411728,
       "filtered": true
     },
     "periodic-table-3d": {
@@ -218,10 +218,10 @@
       "filtered": true
     },
     "aegis-ebs": {
-      "headCommit": "938ba973cf662aeab9fe858c98ebcfd9c08366b6",
-      "loc_add": 47607,
-      "loc_del": 2296,
-      "loc": 45311,
+      "headCommit": "ae231ba75661bc07bf0f5144b3341a541a94cecc",
+      "loc_add": 52222,
+      "loc_del": 3196,
+      "loc": 49026,
       "filtered": true
     }
   }
