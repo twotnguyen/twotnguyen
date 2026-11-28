@@ -3,9 +3,9 @@
 # Hi, I'm Twot Nguyen 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1795764329571">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1795764329571">
-  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1795764329571" width="930">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg?v=1795849013965">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg?v=1795849013965">
+  <img alt="Twot Nguyen's developer profile" src="profile_dark.svg?v=1795849013965" width="930">
 </picture>
 
 Full-stack developer focused on the **TypeScript ecosystem**, robust web
@@ -47,7 +47,7 @@ Based in Ho Chi Minh City, Vietnam.
 
 <div align="center">
 
-![Quote of the Day: "Study logic and math, because once you've mastered them, you won't fear any book." - Naval Ravikant](quote.svg?v=1795764329571)
+![Quote of the Day: "Java is to JavaScript what car is to carpet." - Chris Heilmann](quote.svg?v=1795849013965)
 
 _One must imagine a system happy._
 

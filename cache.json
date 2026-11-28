@@ -82,10 +82,10 @@
       "loc": 567
     },
     "twotnguyen": {
-      "headCommit": "f5d2cfbf5279a32aee70d0faa2448d240e8014ff",
-      "loc_add": 1455,
+      "headCommit": "cb7ec712188fcbedd6d2f5492e9f7c5fde834c18",
+      "loc_add": 1456,
       "loc_del": 0,
-      "loc": 1455,
+      "loc": 1456,
       "filtered": true
     },
     "1-2-3-nguoi": {
@@ -204,10 +204,10 @@
       "filtered": true
     },
     "nexgraph": {
-      "headCommit": "85b888069ae8e1847114670836683e0c17f08a32",
-      "loc_add": 430700,
-      "loc_del": 18972,
-      "loc": 411728,
+      "headCommit": "5513000f6a4d8413269e91c7ec329a581249c92e",
+      "loc_add": 433099,
+      "loc_del": 19118,
+      "loc": 413981,
       "filtered": true
     },
     "periodic-table-3d": {
@@ -218,10 +218,24 @@
       "filtered": true
     },
     "aegis-ebs": {
-      "headCommit": "ae231ba75661bc07bf0f5144b3341a541a94cecc",
-      "loc_add": 52222,
-      "loc_del": 3196,
-      "loc": 49026,
+      "headCommit": "a4f6964b11864a99109d7461a4bb6ead5b3f6e07",
+      "loc_add": 55555,
+      "loc_del": 5936,
+      "loc": 49619,
+      "filtered": true
+    },
+    "remove-green-web": {
+      "headCommit": "af1ed2a5daa10894eea227a12f78c8c047a28f80",
+      "loc_add": 579,
+      "loc_del": 15,
+      "loc": 564,
+      "filtered": true
+    },
+    "CMP381": {
+      "headCommit": "f0b104986509056f51b9a05e55d32c7296704310",
+      "loc_add": 2423,
+      "loc_del": 0,
+      "loc": 2423,
       "filtered": true
     }
   }
